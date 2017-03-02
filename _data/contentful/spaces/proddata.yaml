@@ -1,0 +1,194 @@
+---
+campMember:
+- sys:
+    id: 3Um2e8MwQE06KAYK8YYcMO
+  name: Brian
+  desiredUrl: brian
+  order: 0
+  title: Koala
+  picture:
+    title: Koala
+    description: Koala
+    url: //images.contentful.com/s7od86xvrwx9/58i356BR1u8IEw2AcsqWUe/6e2a2beef2ac5351890258583f05081e/13322046_10103959398710074_943484235773277290_n.jpg
+  bio: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- sys:
+    id: 6m5pWZX80EW6WgcoyOaiOG
+  name: Martin
+  desiredUrl: martin
+  order: 0
+  title: Lead Camp Master
+  picture:
+    title: Martin
+    description: Martin
+    url: //images.contentful.com/s7od86xvrwx9/v46tyT5xAW8YgQogY4cIk/0eef4dfd75fdf6f60486d95b4b74f312/martin.jpg
+  bio: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- sys:
+    id: 4zJPY1wCK4oq8CIIeg06OG
+  name: Pierre
+  desiredUrl: pierre
+  order: 1
+  title: Captain
+  picture:
+    title: Pierre
+    description: Captain Pierre
+    url: //images.contentful.com/s7od86xvrwx9/1yk3LEfU4wY6IUUe0kGicE/1bf9e6f65e640c84edc7521a0c6f7046/10985021_10152846700050017_2468230460337806343_o.jpg
+  bio: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+contentOnAllPages:
+- sys:
+    id: 1ga742I2MSYs8sky4MIC4m
+  heroImageHomepage:
+    title: hero image
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/4eD6YUg93iCC8eAaMOKUKK/3b2e9ce11b6ed8781c652c861e80e908/hero_image.jpg
+  heroImageWorkGroupLandingPage:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  heroImageNewsLandingPage:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  heroContactUsPage:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  aboutLetItGoText: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  aboutImage:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  contactUsText: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+newsPost:
+- sys:
+    id: 3vsV2rlINyGsqSQOwUwOKw
+  title: New Website
+  content: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+workGroup:
+- sys:
+    id: 4bCKHwS65acEOuQ4w4CoIQ
+  title: Art
+  desiredUrl: art
+  heroImage:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  heroTitleColor: blue
+  order: 0
+  thumbImage:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  hoverText: Camp Art & Decor
+  workGroupBlurb: In charge of decorating the camp for day-time and night-time shenanigans!
+    Anything creative goes!
+  workGroupSubtitle: Release your creativity
+  theOpportunity: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  statementForMosaicGalleryTopRight: Art is power
+  statementForMosaicGalleryBottomLeft: Power is art
+  ourFocusImage1:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  ourFocusImage2:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  ourFocusImage3:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  ourFocusImage4:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  photoCredit: Nicolas Bartoli
+  theInitiativeText: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+letter:
+- sys:
+    id: 6y9JxGYKqs86WkgAaMkaQs
+  year: 2017
+  heroLetter:
+    title: placeholder
+    description: test
+    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
+  title: Radical Ritual
+  content: "Let it Go wants to be in line with and contribute to the collective evolutionary
+    process that we're currently experiencing.\n \nWe would like to provide a space
+    that’s comfortable for people regardless of their cultural background or spiritual
+    beliefs.  The ability to let go of our mind-created sense of self stands at the
+    root of all major religions and spiritual teachings and leads to an all-encompassing,
+    more peaceful attitude toward life full of love, understanding, wisdom, compassion
+    and oneness.\n \nCreating a space of shared awareness, where we feel free to reveal
+    our most intimate emotions, thoughts, and self.  A space where you need not fear
+    being judged and you can be your true self, or explore all the possibilities of
+    who you can be. A space where you can connect and explore territories of love
+    and trust where everyone gives and receives to help bridge the gap between you
+    and I.  __A space to learn.  A space to teach.  A space to let. it. go.__\n \nOur
+    reason for existence/purpose is ultimately to encourage people to let go of the
+    conceptual mind that seems to know who we are and what's reality, the ego.  It’s
+    the voice in your head that's pretending to be us, but it’s mainly concerned on
+    survival, it prevents us from being present in each moment.  It prevents us from
+    being at ease in our lives and from reaching our most innate dreams and visions.
+    \ Thoughts of past and future, self-doubt, self-pity, and paranoia are all manifestations
+    of the ego that are keeping you from being present in the universe, the state
+    of being that your soul is longing for.  It's absolutely vital to human health
+    to have access to the inner stillness.  When everyone acts from a place of oneness,
+    of egolessness, there will be no more warfare, racism, division, and greed.  Ultimately,
+    we want to create a better, happier and more peaceful world. Right here, right
+    now, is the only place there is and ever will be and the only place where we can
+    truly be ourselves.\n \nWe wish to help direct people towards a place within that
+    is of love and peace, a place that is pure.  There are different possibilities
+    for people to let go of their minds, their bodies, their limiting beliefs and
+    most importantly the suffering that is essentially not 'your' suffering.  Routes
+    of exploration could be through yoga, meditation, psychedelic journeys, expressive
+    dance, intuitive painting and much more.\n \nWe imagine Burning Man to be the
+    perfect environment for profound personal transformations and consciousness expanding
+    experiences.  __Welcome to our burning man family from the bottom of our hearts!__"

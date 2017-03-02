@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+
+<div class="img-settings letter-hero heroImage" style="background-image: url('{{ site.data.contentful.spaces.proddata.letter[0].heroLetter.url }}')">
+	<div class="section-photo center-vertical">
+		<div class="grid">
+			<div class="col-6-12 center">
+				<h1 class="color-olive">A letter from our founders</h1>
+				<h3 class="color-olive">{{ page.contentful_fields.title }}</h3>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content">
+	<div class="grid">
+		<div class="col-8-12 center">
+			<ul class="letter-tabs">
+			{% assign currentYear = page.title %}
+			
+			{% assign sorted_letter = site.data.contentful.spaces.proddata.letter | sort: "year" %}
+
+			{% for letter in sorted_letter %}
+			{% assign letterYear = letter.year %}
+			{% assign lettersAmount =  site.data.contentful.spaces.proddata.letter | size %}
+			
+				<li><a href="/letter/{{ letterYear }}" class="page-link"><h3 class="{% if currentYear == letterYear and lettersAmount >= 2 %} active {% endif %}">{{ letter.year }}</h3></a></li>
+		
+			{% endfor %}
+			</ul>
+			<div class="letter-body">
+				{{ page.contentful_fields.content | markdownify }}
+			</div>
+			<div class="content" style="padding-left: 0; padding-top: 10px;">
+				<h2 class="color-blue text-left" style="margin-top: 0;">Camp Let It Go</h2>
+			</div>
+		</div>
+	</div>
+</div>
+
+

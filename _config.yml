@@ -1,0 +1,40 @@
+# Site settings
+title: Camp Let It Go
+email: contact@noemailyet.org
+description: >
+  Welcome to the home of Letting It Go.
+baseurl: ""
+url: "http://letitgocamp.netlify.com" # the base hostname & protocol for your site
+image_path: '/assets/img'
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+exclude: ['_sass', '_src', '_grunt', 'node_modules', 'Gruntfile.js', 'package.json', 'README.md', 'Gemfile']
+
+# Enabling gems
+gems: [
+"jekyll-contentful"
+]
+
+contentful:
+  preview: No 
+  production_access_token: LETITGO_CONTENTFUL_ACCESS_TOKEN
+  preview_access_token: LETITGO_CONTENTFUL_PREVIEW_TOKEN
+  space: LETITGO_CONTENTFUL_SPACE_ID
+  content_types:
+   - "workGroup"
+   - "campMember"
+   - "letter"
+  spaces:
+    - proddata: # Jekyll _data folder identifier - Required
+        space: LETITGO_CONTENTFUL_SPACE_ID        # Required
+        access_token: LETITGO_CONTENTFUL_ACCESS_TOKEN # Required
+        cda_query:                 # Optional
+          include: 2
+          limit: 100
+        content_types:             # Optional
+          cat: workGroup
+          cat: campMember
+          cat: letter
+          cat: newsPost

@@ -1,0 +1,85 @@
+// Headline
+h1 {
+	font-family: $stack-serif;
+	font-weight: 900;
+	font-size: 45px; 
+	line-height: 1.5;
+	text-align:center;
+	@media screen and #{$brk-narrow} {
+		font-size: 23px;
+	}
+	@media screen and #{$brk-tablet-min} and #{$brk-wide} {
+		font-size: 35px;
+	}
+} 
+
+// Display Text
+h2 {
+	font-family: $stack-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.5;
+	text-align: center;
+	@media screen and #{$brk-narrow} {
+		font-size: 18px;
+	}
+}
+
+h3, h4, p, p.caption, p.button, a, ul, li {
+	font-family: $stack-sans-serif;
+	font-weight: 400;
+}
+
+//Title
+h3 {
+	font-size: 16px;
+	letter-spacing: 2px;
+	line-height: 1.5;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 0;
+	@media screen and #{$brk-wide} {
+		font-size: 14px;
+		margin-bottom: 0;
+	}
+}
+
+//staff member titles and social 
+h4 {
+	font-size: 14px;
+	font-weight: 700;
+	color: $black;
+}
+
+//Body 
+p {
+	font-size: 18px;
+	line-height: 1.7;
+	color: $black;
+	&.caption {
+		text-align: left;
+    	margin-top: 12px;
+    	font-size: 12px;
+    	margin-bottom: 36px;
+    	text-transform: uppercase;
+	}
+	&.button {
+		font-size:14px;
+		letter-spacing: 2px;
+		text-transform: uppercase;
+		text-align:center;
+	}
+	@media screen and #{$brk-narrow} {
+		font-size: 14px;
+	}
+}
+
+a {
+	color: $red;
+	text-decoration: none;
+}
+
+.font-normal {
+	font-weight: 400;
+}
+

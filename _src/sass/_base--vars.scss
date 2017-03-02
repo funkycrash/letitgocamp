@@ -1,0 +1,94 @@
+// Colors
+$red		: #00234D;
+$blue 		: #454545;
+$olive		: #D1B894;
+$purple 	: #4D5199;
+$purple-light: #9497CC;
+$grey 		: #777679;
+$light-grey : #F3F3F3;
+$black		: #333447;
+$dark-red 	: #454545;
+$white		: #ffffff;
+$nav-grey	: #828282;
+$gold-light : #E8D9C5;
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Playfair+Display:400,700,900');
+
+// Font Stacks
+$stack-serif			: 'Playfair Display', Times, serif;
+$stack-sans-serif 		: 'Open Sans', Helvetica, sans-serif;
+
+$assets-path			: '/assets/img/';
+
+// Mixins
+@mixin transition($length) {
+	transition: all $length ease-out;
+}
+
+@mixin translateY($percent) {
+    transform: translateY($percent); 
+}
+
+// Media Query Breakpoints
+ $brk-narrow 	: '(max-width: 767px)';
+ $brk-wide 		: '(max-width: 1023px)';
+ $brk-tablet-min: '(min-width: 768px)';
+
+
+// Helpers
+
+.no-margin {
+	margin: 0 !important;
+}
+.no-padding {
+	padding: 0 !important;
+}
+
+.center {
+	float: none !important;
+	margin: 0 auto;
+}
+.center-vertical {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+.center-text {
+	text-align: center;
+	display: block;
+}
+.block-overlap {
+	margin: -4em auto auto auto!important;
+	width: 90% !important;
+	position: relative;
+	@media handheld, only screen and #{$brk-narrow} {
+		width: 100% !important;
+	}
+}
+.flex-container {
+	max-width: 1780px;
+	padding: 0;
+  	margin: 0 auto;
+  	float: none !important;
+  	list-style: none; 
+	-ms-box-orient: horizontal;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: flex;
+	float: left;
+
+	-webkit-align-items: stretch; 
+  	align-items: stretch; 
+  	@media screen and #{$brk-narrow} {
+  		display: block;
+  	}
+}
