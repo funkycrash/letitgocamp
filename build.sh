@@ -8,5 +8,3 @@ cat _config.yml
 echo '### Fetching content & Building site ###'
 jekyll contentful --rebuild
 echo '### DONE ###'
-echo '### Removing Variables from config file ###'
-echo '### DONE ###'
