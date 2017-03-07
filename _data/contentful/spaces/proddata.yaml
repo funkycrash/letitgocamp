@@ -203,9 +203,9 @@ contentOnAllPages:
     description: 
     url: //images.contentful.com/s7od86xvrwx9/617CBbUz4sumwQe6y2KSai/d88ad7ccc337d79f2f9c6d8295066f71/news.jpg
   heroContactUsPage:
-    title: home
+    title: contact-us
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/2PiEhQ2n3OQ6ScWI8IeCYc/a49c4e558787994a9731d245c7d5038f/home.jpg
+    url: //images.contentful.com/s7od86xvrwx9/5ZDizfIUCWOYY2wSyku0KW/1d85d1511a5996d5be1f5d540aac5d28/contact-us.jpg
   aboutLetItGoText: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -217,6 +217,10 @@ contentOnAllPages:
     title: about-2
     description: 
     url: //images.contentful.com/s7od86xvrwx9/2jmI79elzi246EYGkGIYAS/09d24febc73898b1b04408929de99699/about-2.jpg
+  aboutImage2:
+    title: about-1
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/2XsgbxRvSoqSMIUGM0ec6Q/68e9e9e07050112c7402b98d07a13cfb/about-1.jpg
   contactUsText: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
