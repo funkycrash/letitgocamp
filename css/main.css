@@ -796,7 +796,8 @@ footer {
         padding-right: 0; } }
   footer h3 {
     font-size: 13px;
-    margin-top: 3px; }
+    margin-top: 3px;
+    color: #D1B894; }
   footer ul {
     display: inline-block;
     list-style: none; }
@@ -808,13 +809,13 @@ footer {
       text-transform: uppercase; }
       footer ul li a {
         text-decoration: none;
-        color: #333447; }
+        color: #D1B894; }
         footer ul li a:hover {
-          color: #828282; }
+          text-decoration: underline; }
       footer ul li:after {
         margin-left: 15px;
         content: "|";
-        color: #333447; }
+        color: #D1B894; }
       footer ul li:last-of-type:after {
         content: ""; }
   @media screen and (max-width: 767px) {

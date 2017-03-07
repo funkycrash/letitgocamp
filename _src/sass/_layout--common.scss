@@ -482,6 +482,7 @@ footer {
     h3 {
         font-size: 13px;
         margin-top: 3px;
+        color: $olive;
     }
     ul {
         display: inline-block;
@@ -494,15 +495,15 @@ footer {
             text-transform: uppercase;    
             a {
                 text-decoration: none;
-                color: $black;
+                color: $olive;
                 &:hover {
-                    color: $nav-grey;
+                    text-decoration: underline;
                 }
             }
             &:after {
                 margin-left: 15px;
                 content: "|";
-                color: $black;
+                color: $olive;
             }
             &:last-of-type:after {
                 content: "";
