@@ -36,23 +36,70 @@ workGroup:
   statementForMosaicGalleryBottomLeft: Whatever good things we build end up building
     us. - Jim Rohn
   ourFocusImage1:
-    title: placeholder31
+    title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
   ourFocusImage2:
-    title: placeholder31
+    title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
   ourFocusImage3:
-    title: placeholder31
+    title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
   ourFocusImage4:
-    title: placeholder31
+    title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
   theInitiativeText: Placeholder text for what are the steps required to join this
     group.
+- sys:
+    id: 2E92F7DyziqOGqqIusKOsA
+  title: Kitchen
+  desiredUrl: kitchen
+  heroImage:
+    title: kitchen
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/2xHWW9YVfuEQYqqGSAoqSa/e623a19335ef97380b5531d53f21560e/kitchen.jpg
+  workGroupBlurb: This department is in charge of designing the kitchen, water stations,
+    maintaining the kitchen schedule and making sure the kitchen is functional the
+    whole time.
+  workGroupSubtitle: You are what you eat
+  theOpportunity: Are you excited about food?  Do you like to eat?  We need volunteers
+    to take charge of the kitchen. This department is in charge of designing the kitchen,
+    water stations, maintaining the kitchen schedule and making sure the kitchen is
+    functional the whole time.
+  statementForMosaicGalleryTopRight: One should eat to live, not live to eat.
+  ourFocusImage1:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  ourFocusImage2:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  ourFocusImage3:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  ourFocusImage4:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  theInitiativeText: "\n\n- Design and build the kitchen, need to ensure it not exposed
+    to the elements, includes some kind of flooring, walls and entries\n- Ensure our
+    kitchen include space for coolers, cookware, cooking counter space, washing station,
+    recycling/trash\n- Ensure the kitchen is functional, for a list of kitchen items,
+    see the Master Burning Man spreadsheet\n- Ensure we include a fully functional
+    dining area, find a way to make the dining area more social, perhaps away from
+    the kitchen\n- The kitchen must include water stations for cooking and washing
+    dishes, the washing station should include running water and must drain to a gray
+    water station\n- Print the kitchen cooking and cleaning schedule and display in
+    the kitchen\n- Ensure that each night has volunteers for cooking dinner and after
+    dinner cleanup\n- Collect food allergies and ensure they are communicated out
+    to all of the cooking crew, ensure all cooking teams include a vegetarian option\n\n\n^*Oustanding
+    question - who owns the setup from last year? Do we need to get a new one or can
+    we use last years? \n"
 - sys:
     id: 1fsJItw2Nmo2KMq8yGYkai
   title: Camp Social
@@ -61,57 +108,43 @@ workGroup:
     title: camp-social
     description: 
     url: //images.contentful.com/s7od86xvrwx9/553K067x6UQ0sKIAmYWcko/c3203ea091e986681c60eaf29c529db8/camp-social.jpg
-  workGroupBlurb: ' Organizes Camp Adventures'
+  workGroupBlurb: May adventure find you and you find it. c
   workGroupSubtitle: Fun & Social
-  theOpportunity: "__Camp adventure__: Anyone can organize camp adventures. Adventures
-    should be interactive, mystical, include everybody, and go on for a hours. Or
-    you know, a BBQ in Deep Playa is totally acceptable too \U0001F609  Last year,
-    Brian and Nate organized an engaging final ceremony complete with a live action
-    story played out by camp members. \n\n__Workshops__: Workshops are open for anyone
-    to attend. In the past, Camp Let it Go has offered workshops on capoeira, yoga
-    and meditation. We need your help with setting up some fun, interesting and meaningful
-    workshops for camp this year.  Use your talents to teach a skill or lead an important
-    discussion. Any suggestions are welcome.  \n\nWorkshops will be scheduled in advance
-    and listed on the Let it Go schedule.  \n\nStarting in June, we can submit our
-    workshop schedule to the Burning Man organizers to be listed in the What Where
-    When booklet.  The booklets are distributed to each attendee so this is a great
-    way to advertise the Let it Go contribution. \n![Camp Schedule 2016](//images.contentful.com/s7od86xvrwx9/4FI7hVHo8U6SkqsAWMQime/6b8e95e9327288ba90b79d76643f76eb/131.JPG)\n\n\n__Camp
-    Duties__: Members volunteer for camp duties to help camp run efficiently.  Duties
+  theOpportunity: "One of the special things about our camp is the bonds that we are
+    able to create over such a short period of time!  Camp social events and workshops
+    enable us to connect as a group. \n\n\n\n\n"
+  theInitiativeText: "__Camp Adventure: __\nWe need some adventure leaders to plan
+    camp excursions or adventure. \n\nAdventures should be interactive, mystical,
+    include everybody, and go on for a hours. Or you know, a BBQ in Deep Playa is
+    totally acceptable too \U0001F609  Last year, Brian and Nate organized an engaging
+    final ceremony complete with a live action story played out by camp members. \n\n__Workshops:__\nWorkshops
+    are open for anyone to attend. In the past, Camp Let it Go has offered workshops
+    on capoeira, yoga and meditation. We need your help with setting up some fun,
+    interesting and meaningful workshops for camp this year.  Use your talents to
+    teach a skill or lead an important discussion. Any suggestions are welcome.  \n\nWorkshops
+    will be scheduled in advance and listed on the Let it Go schedule.  \n\nStarting
+    in June, we can submit our workshop schedule to the Burning Man organizers to
+    be listed in the What Where When booklet.  The booklets are distributed to each
+    attendee so this is a great way to advertise the Let it Go contribution. \n\n__Camp
+    Duties:__ Members volunteer for camp duties to help camp run efficiently.  Duties
     include ice runs, cooking and cleaning, decorating etc. Members can sign up for
     camp duties on the master Let it Go spreadsheet.  Everyone is expected to participate
-    in camp duties!\n\n![Dinner](//images.contentful.com/s7od86xvrwx9/3H2tMDYLCUK2gi2CSEqGSI/f8a434dbf219917c2ffc00b946b7de56/IMG_1834.JPG)\n\n\n\n"
-  ourFocusImage1:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage2:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage3:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage4:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  theInitiativeText: "### THE BAR\n__For people new to Burning Man__: Burning man
-    has little if no services provided by the festival. The people that come are the
-    ones who put together the music, the stages, the art, the bars, and the food/gifts.
+    in camp duties!\n\n\nTHE BAR\n__For people new to Burning Man__: Burning man has
+    little if no services provided by the festival. The people that come are the ones
+    who put together the music, the stages, the art, the bars, and the food/gifts.
     The city is made by you!\n\nThe bar is one of the ways our camp gives back to
     black rock city. (The city that is burning man). We ask that you work some shifts.
     If you don’t know how to make drinks, all good! Here’s your chance to learn! Also
     If you don’t have a scheduled shift you can always jump back there to help! It’s
     a great way to make people happy, meet people, and hear their crazy burning man
-    stories! All you gotta say, is how was your day!\n\n### Bar duties\n- Have a drink,
+    stories! All you gotta say, is how was your day!\n\n Bar duties\n- Have a drink,
     you’re a fucking bartender.\n- We have a wheel that people spin to see what they
     need to do for a drink \U0001F609\n- Check IDs\n- If your shift is 2-5 get Ice
     before your shift \U0001F642\n- Empty trash and replace bag at beginning of shift
     if it’s full.\n- Dump half empty beers/drinks in a bucket, do not throw away cups
     only beer cans/bottles.\n- End of shift, clean off the bar for the next person
     replace full trash if full. (Some redundancy here in case)\n- Last shift people-
-    if no one else is there, close down the bar. \n\n### Ice Run\nIn the past we were
+    if no one else is there, close down the bar. \n\nIce Run\nIn the past we were
     doing ice runs twice a day. Some days we spent close to $60-70 a day on ice. I
     am wondering if we could potentially switch to a chest freezer running of solar.\n[Link
     here](http://www.aselfsufficientlife.com/chest-freezer-to-fridge-conversion-the-most-energy-efficient-fridge-ever.html)"
@@ -126,15 +159,13 @@ workGroup:
   heroTitleColor: blue
   order: 0
   hoverText: Camp Art & Decor
-  workGroupBlurb: In charge of decorating the camp for day-time and night-time shenanigans!
-    Anything creative goes!
+  workGroupBlurb: 'Art enables us to find ourselves and lose ourselves at the same
+    time. '
   workGroupSubtitle: Release your creativity
-  theOpportunity: "![Camp decor](//images.contentful.com/s7od86xvrwx9/6bmNysW1ZSuYEkkSEEY6u4/b55ebfc8fba070ea71589992595f339b/150.JPG)\n__Camp
-    Art & Decor:__ We need volunteers to decorate the camp for day-time and night-time
-    shenanigans! Anything creative goes! \n\nCritical camp decor items include any
-    signage, tapestries, dreamcatchers etc.  Be creative.  Lights are always fun for
-    night time.  \n\nOrganize a few group sessions to organize existing decorations
-    and work together on new projects. \n\n\n"
+  theOpportunity: "Calling all artists!  We need people to take charge of making our
+    camp beautiful and stand out!  Nothing attracts fellow bmers better than some
+    eye catching art works. \n\nThis group is in charge of decorating the camp for
+    day-time and night-time shenanigans! Anything creative goes! \n\n"
   statementForMosaicGalleryTopRight: Art is power
   statementForMosaicGalleryBottomLeft: Power is art
   ourFocusImage1:
@@ -154,48 +185,17 @@ workGroup:
     description: test
     url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
   photoCredit: Nicolas Bartoli
-- sys:
-    id: 2E92F7DyziqOGqqIusKOsA
-  title: Kitchen
-  desiredUrl: kitchen
-  heroImage:
-    title: kitchen
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/2xHWW9YVfuEQYqqGSAoqSa/e623a19335ef97380b5531d53f21560e/kitchen.jpg
-  workGroupBlurb: This department is in charge of designing the kitchen, water stations,
-    maintaining the kitchen schedule and making sure the kitchen is functional the
-    whole time.
-  workGroupSubtitle: You are what you eat
-  theOpportunity: "__The Kitchen __ \n\n- Oustanding question - who owns the setup
-    from last year? Do we need to get a new one or can we use last years? \n- Ensure
-    we include space for coolers, cookware, cooking counter space, washing station,
-    recycling/trash\n- Ensure the kitchen is functional, for a list of kitchen items,
-    see the Master Burning Man spreadsheet\n- Ensure we include a fully functional
-    dining area, find a way to make the dining area more social, perhaps away from
-    the kitchen\n- The kitchen must include water stations for cooking and washing
-    dishes, the washing station should include running water and must drain to a gray
-    water station\n- Print the kitchen cooking and cleaning schedule and display in
-    the kitchen\n- Ensure that each night has volunteers for cooking dinner and after
-    dinner cleanup\n- Collect food allergies and ensure they are communicated out
-    to all of the cooking crew, ensure all cooking teams include a vegetarian option\n"
-  statementForMosaicGalleryTopRight: One should eat to live, not live to eat.
-  ourFocusImage1:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage2:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage3:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage4:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  theInitiativeText: Placeholder text
+  theInitiativeText: "Critical camp decor items include any signage, tapestries, dreamcatchers
+    etc.  Be creative.  Lights are always fun for night time.  \n\n- Organize a few
+    group sessions to organize existing decorations and work together on new projects.
+    \n- Collect our dream catchers, these are a camp staple\n- Ensure we have correct
+    signage, let it go sign, workshop schedule etc\n- LIGHTS!  We love lights, and
+    they become critical at night time, Work with infrastructure to get the lights
+    connected to our solar setup\n- Organize some arts and crafts workshops, we have
+    a very artistic group and youll get a lot of participants who want to contribute
+    crafts\n- Bring arts and crafts supplies to camp so that we can continue to work
+    on arts and crafts before and during the burn\n\nOutstanding questions - \nWhere
+    is the Let It Go sign ?\nWill we have the lotus dome? \n\n\n"
 - sys:
     id: 2yYvwOp6PqasYk6AeYeEWE
   title: Planning & Logistics
@@ -204,15 +204,33 @@ workGroup:
     title: planning-logistics
     description: 
     url: //images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg
-  theOpportunity: "__Accounting__: This department is in charge of collecting camp
-    dues, budgeting, distributing moneys, reimbursing people etc.\n\nStart by setting
-    up a spreadsheet to manage and organize all of the camp dues and budgetting.  [Last
-    years can be found here](https://docs.google.com/spreadsheets/d/1eo27ExvN7s3omXNFtL1h6opQ8GhQUpyE95j3uh4-uRY/edit?usp=drive_web&usp=sheets_home&ths=true)\n\n\n__Transportation
-    & Storage__: This team is in charge of bringing all the equipment to the playa
-    and drop it off in Tahoe on the way back. \n\nA hauling vehicle will need to be
-    used to haul the trailer. \n\nWe will need volunteers to do the driving. Potentially
-    from the Eclipse fesvtival in Oregon and/or Tahoe and returning the trailer to
-    Tahoe. \n\n\n\n![073](//images.contentful.com/s7od86xvrwx9/6HjEj4cJwIaW8g2MEa6skK/c521b0e70fe166106004197cfe0768c5/073.JPG)\n\n\n__Water
+  workGroupBlurb: It all starts with a plan
+  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
+    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
+    for people to be responsible for the book keepings as well as logisitics. \n\n"
+  ourFocusImage1:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  ourFocusImage2:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  ourFocusImage3:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  ourFocusImage4:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+  theInitiativeText: "\n__Accounting__: This department is in charge of collecting
+    camp dues, budgeting, distributing moneys, reimbursing people etc.\n\nUse our
+    Burning Man 2017 Google Spreadsheet to track budget\n\n__Transportation & Storage__:
+    This team is in charge of bringing all the equipment to the playa and drop it
+    off in Tahoe on the way back. \n\nA hauling vehicle will need to be used to haul
+    the trailer. \n\nWe will need volunteers to do the driving. Potentially from the
+    Eclipse fesvtival in Oregon and/or Tahoe and returning the trailer to Tahoe. \n\n__Water
     & Trash__: This department is in charge of organizing delivery of water to the
     playa, pump out of grey water, trash management at camp (trash, compost and recycle)\n\nWater
     delivery is organized through Fresca Waterhouse. Last year we rented a XX gallon
@@ -225,22 +243,6 @@ workGroup:
     water as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is
     home to a most of the shared trash for Burning Man.  This team is responble for
     organizing recycling and trash can materials, setup and disposal. "
-  ourFocusImage1:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage2:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage3:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
-  ourFocusImage4:
-    title: placeholder31
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/6802df41549a64e4d2b4407f30844503/placeholder31.png
 campMember:
 - sys:
     id: 1dTR4Er7qyySOu0oks0O0M

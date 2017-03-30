@@ -337,6 +337,13 @@ body {
     font-size: 11px;
     letter-spacing: 1px; } }
 
+.donate {
+  padding: 10px 20px;
+  background: #454545;
+  color: #fff; }
+  .donate:hover {
+    color: #fff; }
+
 h1 {
   font-family: "Playfair Display", Times, serif;
   font-weight: 900;
@@ -434,7 +441,7 @@ header {
 
 nav {
   float: right;
-  margin-top: 21px; }
+  margin-top: 11px; }
   nav h3 {
     text-decoration: none;
     font-size: 13px;
