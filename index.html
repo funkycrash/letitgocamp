@@ -22,7 +22,7 @@ layout: default
       <div class="clearfix"></div>
       {% for letter in site.data.contentful.spaces.proddata.letter %}
       {% if forloop.last %}
-        <p class="button olive-blue"><a href="/letter/2017">Read the {{ letter.year }} Camp's letter</a></p>
+        <p class="button olive-blue"><a href="/letter/{{ letter.title | slugify }}">Read the {{ letter.year }} Camp's letter</a></p>
       {% endif %}
       {% endfor %}
     </div>
