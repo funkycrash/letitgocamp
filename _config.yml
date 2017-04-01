@@ -19,17 +19,17 @@ gems: [
 
 contentful:
   preview: No 
-  production_access_token: 
-  preview_access_token: 
-  space: 
+  production_access_token: LETITGO_CONTENTFUL_ACCESS_TOKEN
+  preview_access_token: LETITGO_CONTENTFUL_PREVIEW_TOKEN
+  space: LETITGO_CONTENTFUL_SPACE_ID
   content_types:
    - "workGroup"
    - "campMember"
    - "letter"
   spaces:
     - proddata: # Jekyll _data folder identifier - Required
-        space:         # Required
-        access_token:  # Required
+        space: LETITGO_CONTENTFUL_SPACE_ID        # Required
+        access_token: LETITGO_CONTENTFUL_ACCESS_TOKEN # Required
         cda_query:                 # Optional
           include: 2
           limit: 100

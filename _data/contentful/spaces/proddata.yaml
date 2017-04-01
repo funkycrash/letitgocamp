@@ -1,16 +1,152 @@
 ---
-newsPost:
+campMember:
 - sys:
-    id: 3vsV2rlINyGsqSQOwUwOKw
-  title: New Website
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    id: 5UgdsEYHXUAsCqC2OoIUSC
+  name: Funky Flow
+  desiredUrl: funky-flow
+  order: 1
+  title: Webmaster
+  picture:
+    title: Funky Flow
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/4gfPl8uBxesYgKUGU2Q4Uk/ac341062de95416f76d21052023c141c/17098291_10154329568439109_2827365495101023446_n.jpg"
+  bio: "Funky Flow is a French music producer and DJ born in Biarritz, a beach town
+    where surf, sand, and dirty dancing abound. He is a passionate artist surfing
+    the tech-funk genre. He shows dynamic range and isn't afraid to bend genres, dabbling
+    in slow acid techno, electro swing, and tech house. Funkenstein started mixing
+    in San Francisco, where the electronic music scene has reached a fever pitch.
+    From 2009-2010, he had a residency in two clubs in Oxford, England. He has since
+    played a series of private events in and around Paris, including the annual Burning
+    Night at the Moulin Rouge in 2013. \n\nFunky Flow is particularly fond of beats
+    that have a very dark and groovy bassline, snares that 'snap' and spooky atmospheres.\n\nHe
+    is helping building the website as well as leading some martial arts workshops
+    (Capoeira) at the camp."
+- sys:
+    id: 4NcKuzFbbGa6OIUU6GGosm
+  name: Mistress Jade
+  desiredUrl: mistress-jade
+  order: 3
+  picture:
+    title: 17634369 10154193824857583 5463571134298561397 n
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/2fyKjl82WkIeaMi2E2c0qs/08bcad93acd0e5e713b027fc5bea2929/17634369_10154193824857583_5463571134298561397_n.jpg"
+  bio: 'I''m Sophia AKA Lion Mane AKA Mistress Jade...From Long Beach, California,
+    but now live in Seattle and loving the PNW. Love to write poetry, dance, smoke
+    da herbs, and making/growing things! BDSM and fetishism are a couple of my (not
+    so) secret obsessions and I enjoy giving out spankings, floggings, and other punishments
+    at camp. I''m looking forward to offering a haiku/literature workshop in the future.
+    Let It Go was and always will be my home and I love our ever growing family! '
+- sys:
+    id: 6m5pWZX80EW6WgcoyOaiOG
+  name: Martin
+  desiredUrl: martin
+  order: 0
+  title: Lead Camp Master
+  picture:
+    title: Martin
+    description: Martin
+    url: "//images.contentful.com/s7od86xvrwx9/v46tyT5xAW8YgQogY4cIk/0eef4dfd75fdf6f60486d95b4b74f312/martin.jpg"
+  bio: 'My name is Martin, I am from a small island in the Caribbean called Guadeloupe
+    and I have been living in the bay area since 2008. I like sailing and building
+    things. I joined Let It Go in 2015 and this year I took over the organization
+    of camp with the hopes to keep the fire burning! When I am not working on preparing
+    camp I am usually working on Lono! You can check him out here: [https://www.maranart.org/lono/](https://www.maranart.org/lono/)'
 workGroup:
+- sys:
+    id: 4bCKHwS65acEOuQ4w4CoIQ
+  title: Art
+  desiredUrl: art
+  heroImage:
+    title: art
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/45bpokRVK8mgK4eUwcyW2M/e5fe3c684a3f9ffb841545f928bc49b4/art.jpg"
+  heroTitleColor: blue
+  order: 0
+  hoverText: Camp Art & Decor
+  workGroupBlurb: 'Art enables us to find ourselves and lose ourselves at the same
+    time. '
+  workGroupSubtitle: Release your creativity
+  theOpportunity: "Calling all artists!  We need people to take charge of making our
+    camp beautiful and stand out!  Nothing attracts fellow bmers better than some
+    eye catching art works. \n\nThis group is in charge of decorating the camp for
+    day-time and night-time shenanigans! Anything creative goes! \n\n"
+  statementForMosaicGalleryTopRight: Art is power
+  statementForMosaicGalleryBottomLeft: Power is art
+  ourFocusImage1:
+    title: placeholder
+    description: test
+    url: "//images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png"
+  ourFocusImage2:
+    title: placeholder
+    description: test
+    url: "//images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png"
+  ourFocusImage3:
+    title: placeholder
+    description: test
+    url: "//images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png"
+  ourFocusImage4:
+    title: placeholder
+    description: test
+    url: "//images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png"
+  photoCredit: Nicolas Bartoli
+  theInitiativeText: "Critical camp decor items include any signage, tapestries, dreamcatchers
+    etc.  Be creative.  Lights are always fun for night time.  \n\n- Organize a few
+    group sessions to organize existing decorations and work together on new projects.
+    \n- Collect our dream catchers, these are a camp staple\n- Ensure we have correct
+    signage, let it go sign, workshop schedule etc\n- LIGHTS!  We love lights, and
+    they become critical at night time, Work with infrastructure to get the lights
+    connected to our solar setup\n- Organize some arts and crafts workshops, we have
+    a very artistic group and youll get a lot of participants who want to contribute
+    crafts\n- Bring arts and crafts supplies to camp so that we can continue to work
+    on arts and crafts before and during the burn\n\nOutstanding questions - \nWhere
+    is the Let It Go sign ?\nWill we have the lotus dome? \n\n\n"
+- sys:
+    id: 2yYvwOp6PqasYk6AeYeEWE
+  title: Planning & Logistics
+  desiredUrl: planning-logistics
+  heroImage:
+    title: planning-logistics
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg"
+  workGroupBlurb: It all starts with a plan
+  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
+    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
+    for people to be responsible for the book keepings as well as logisitics. \n\n"
+  ourFocusImage1:
+    title: camp schedule
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
+  ourFocusImage2:
+    title: camp schedule
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
+  ourFocusImage3:
+    title: camp schedule
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
+  ourFocusImage4:
+    title: camp schedule
+    description: 
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
+  theInitiativeText: "\n__Accounting__: This department is in charge of collecting
+    camp dues, budgeting, distributing moneys, reimbursing people etc.\n\nUse our
+    Burning Man 2017 Google Spreadsheet to track budget\n\n__Transportation & Storage__:
+    This team is in charge of bringing all the equipment to the playa and drop it
+    off in Tahoe on the way back. \n\nA hauling vehicle will need to be used to haul
+    the trailer. \n\nWe will need volunteers to do the driving. Potentially from the
+    Eclipse fesvtival in Oregon and/or Tahoe and returning the trailer to Tahoe. \n\n__Water
+    & Trash__: This department is in charge of organizing delivery of water to the
+    playa, pump out of grey water, trash management at camp (trash, compost and recycle)\n\nWater
+    delivery is organized through Fresca Waterhouse. Last year we rented a XX gallon
+    tank. Orders should be done before July for the best pricing.  Tanks will need
+    to be picked up, the delivery date and time will need to be pre arranged with
+    the water store. [Check their website for details.](http://www.frescawaterhouse.com/burning-man-water/)\n\nGray
+    water - Last year, Connor fashioned a gray water system with a kiddie pool.  It
+    took a long time for the gray water to evaporate so we are looking for a better
+    method.  This team will be responsible for creating a solution for managing gray
+    water as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is
+    home to a most of the shared trash for Burning Man.  This team is responble for
+    organizing recycling and trash can materials, setup and disposal. "
 - sys:
     id: 4HOX4zNvFYAqMAm4ikIe2I
   title: Infrastructure
@@ -18,7 +154,7 @@ workGroup:
   heroImage:
     title: infrastructure
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/4zv9ZugzSoOwAyaEWycCCM/cc7c456aefbc04adc1278a756d65a268/infrastructure.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/4zv9ZugzSoOwAyaEWycCCM/cc7c456aefbc04adc1278a756d65a268/infrastructure.jpg"
   workGroupBlurb: Electrical Grid, Tents & Shade Infrastructure & Common Area
   workGroupSubtitle: Build Our Camp!
   theOpportunity: |-
@@ -38,19 +174,19 @@ workGroup:
   ourFocusImage1:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   ourFocusImage2:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   ourFocusImage3:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   ourFocusImage4:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   theInitiativeText: Placeholder text for what are the steps required to join this
     group.
 - sys:
@@ -60,7 +196,7 @@ workGroup:
   heroImage:
     title: kitchen
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/2xHWW9YVfuEQYqqGSAoqSa/e623a19335ef97380b5531d53f21560e/kitchen.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/2xHWW9YVfuEQYqqGSAoqSa/e623a19335ef97380b5531d53f21560e/kitchen.jpg"
   workGroupBlurb: This department is in charge of designing the kitchen, water stations,
     maintaining the kitchen schedule and making sure the kitchen is functional the
     whole time.
@@ -73,19 +209,19 @@ workGroup:
   ourFocusImage1:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   ourFocusImage2:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   ourFocusImage3:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   ourFocusImage4:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG"
   theInitiativeText: "\n\n- Design and build the kitchen, need to ensure it not exposed
     to the elements, includes some kind of flooring, walls and entries\n- Ensure our
     kitchen include space for coolers, cookware, cooking counter space, washing station,
@@ -107,7 +243,7 @@ workGroup:
   heroImage:
     title: camp-social
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/553K067x6UQ0sKIAmYWcko/c3203ea091e986681c60eaf29c529db8/camp-social.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/553K067x6UQ0sKIAmYWcko/c3203ea091e986681c60eaf29c529db8/camp-social.jpg"
   workGroupBlurb: May adventure find you and you find it. c
   workGroupSubtitle: Fun & Social
   theOpportunity: "One of the special things about our camp is the bonds that we are
@@ -148,176 +284,11 @@ workGroup:
     doing ice runs twice a day. Some days we spent close to $60-70 a day on ice. I
     am wondering if we could potentially switch to a chest freezer running of solar.\n[Link
     here](http://www.aselfsufficientlife.com/chest-freezer-to-fridge-conversion-the-most-energy-efficient-fridge-ever.html)"
+newsPost:
 - sys:
-    id: 4bCKHwS65acEOuQ4w4CoIQ
-  title: Art
-  desiredUrl: art
-  heroImage:
-    title: art
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/45bpokRVK8mgK4eUwcyW2M/e5fe3c684a3f9ffb841545f928bc49b4/art.jpg
-  heroTitleColor: blue
-  order: 0
-  hoverText: Camp Art & Decor
-  workGroupBlurb: 'Art enables us to find ourselves and lose ourselves at the same
-    time. '
-  workGroupSubtitle: Release your creativity
-  theOpportunity: "Calling all artists!  We need people to take charge of making our
-    camp beautiful and stand out!  Nothing attracts fellow bmers better than some
-    eye catching art works. \n\nThis group is in charge of decorating the camp for
-    day-time and night-time shenanigans! Anything creative goes! \n\n"
-  statementForMosaicGalleryTopRight: Art is power
-  statementForMosaicGalleryBottomLeft: Power is art
-  ourFocusImage1:
-    title: placeholder
-    description: test
-    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
-  ourFocusImage2:
-    title: placeholder
-    description: test
-    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
-  ourFocusImage3:
-    title: placeholder
-    description: test
-    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
-  ourFocusImage4:
-    title: placeholder
-    description: test
-    url: //images.contentful.com/s7od86xvrwx9/hdd1TtN8R2w826S0ksoce/2e5afc4e0d2f204cafca4a9706d3359f/-text.png
-  photoCredit: Nicolas Bartoli
-  theInitiativeText: "Critical camp decor items include any signage, tapestries, dreamcatchers
-    etc.  Be creative.  Lights are always fun for night time.  \n\n- Organize a few
-    group sessions to organize existing decorations and work together on new projects.
-    \n- Collect our dream catchers, these are a camp staple\n- Ensure we have correct
-    signage, let it go sign, workshop schedule etc\n- LIGHTS!  We love lights, and
-    they become critical at night time, Work with infrastructure to get the lights
-    connected to our solar setup\n- Organize some arts and crafts workshops, we have
-    a very artistic group and youll get a lot of participants who want to contribute
-    crafts\n- Bring arts and crafts supplies to camp so that we can continue to work
-    on arts and crafts before and during the burn\n\nOutstanding questions - \nWhere
-    is the Let It Go sign ?\nWill we have the lotus dome? \n\n\n"
-- sys:
-    id: 2yYvwOp6PqasYk6AeYeEWE
-  title: Planning & Logistics
-  desiredUrl: planning-logistics
-  heroImage:
-    title: planning-logistics
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg
-  workGroupBlurb: It all starts with a plan
-  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
-    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
-    for people to be responsible for the book keepings as well as logisitics. \n\n"
-  ourFocusImage1:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  ourFocusImage2:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  ourFocusImage3:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  ourFocusImage4:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  theInitiativeText: "\n__Accounting__: This department is in charge of collecting
-    camp dues, budgeting, distributing moneys, reimbursing people etc.\n\nUse our
-    Burning Man 2017 Google Spreadsheet to track budget\n\n__Transportation & Storage__:
-    This team is in charge of bringing all the equipment to the playa and drop it
-    off in Tahoe on the way back. \n\nA hauling vehicle will need to be used to haul
-    the trailer. \n\nWe will need volunteers to do the driving. Potentially from the
-    Eclipse fesvtival in Oregon and/or Tahoe and returning the trailer to Tahoe. \n\n__Water
-    & Trash__: This department is in charge of organizing delivery of water to the
-    playa, pump out of grey water, trash management at camp (trash, compost and recycle)\n\nWater
-    delivery is organized through Fresca Waterhouse. Last year we rented a XX gallon
-    tank. Orders should be done before July for the best pricing.  Tanks will need
-    to be picked up, the delivery date and time will need to be pre arranged with
-    the water store. [Check their website for details.](http://www.frescawaterhouse.com/burning-man-water/)\n\nGray
-    water - Last year, Connor fashioned a gray water system with a kiddie pool.  It
-    took a long time for the gray water to evaporate so we are looking for a better
-    method.  This team will be responsible for creating a solution for managing gray
-    water as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is
-    home to a most of the shared trash for Burning Man.  This team is responble for
-    organizing recycling and trash can materials, setup and disposal. "
-campMember:
-- sys:
-    id: 1dTR4Er7qyySOu0oks0O0M
-  name: Nate
-  desiredUrl: Nate
-  title: The Builder
-  picture:
-    title: 995654 10152804316903688 6201394985976028036 n
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/2F9WXJSK9qW4oGyIKIeMso/6df90a178c66e749b4baf22ca1409540/995654_10152804316903688_6201394985976028036_n.jpg
-- sys:
-    id: 6m5pWZX80EW6WgcoyOaiOG
-  name: Martin
-  desiredUrl: martin
-  order: 0
-  title: Lead Camp Master
-  picture:
-    title: Martin
-    description: Martin
-    url: //images.contentful.com/s7od86xvrwx9/v46tyT5xAW8YgQogY4cIk/0eef4dfd75fdf6f60486d95b4b74f312/martin.jpg
-  bio: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-- sys:
-    id: 4zJPY1wCK4oq8CIIeg06OG
-  name: Pierre
-  desiredUrl: pierre
-  order: 1
-  title: Captain
-  picture:
-    title: Pierre
-    description: Captain Pierre
-    url: //images.contentful.com/s7od86xvrwx9/1yk3LEfU4wY6IUUe0kGicE/1bf9e6f65e640c84edc7521a0c6f7046/10985021_10152846700050017_2468230460337806343_o.jpg
-  bio: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-- sys:
-    id: 5UgdsEYHXUAsCqC2OoIUSC
-  name: Funky Flow
-  desiredUrl: funky-flow
-  title: Webmaster
-  picture:
-    title: Funky Flow
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/4gfPl8uBxesYgKUGU2Q4Uk/ac341062de95416f76d21052023c141c/17098291_10154329568439109_2827365495101023446_n.jpg
-  bio: "Funky Flow is a French music producer and DJ born in Biarritz, a beach town
-    where surf, sand, and dirty dancing abound. He is a passionate artist surfing
-    the tech-funk genre. He shows dynamic range and isn't afraid to bend genres, dabbling
-    in slow acid techno, electro swing, and tech house. Funkenstein started mixing
-    in San Francisco, where the electronic music scene has reached a fever pitch.
-    From 2009-2010, he had a residency in two clubs in Oxford, England. He has since
-    played a series of private events in and around Paris, including the annual Burning
-    Night at the Moulin Rouge in 2013. \n\nFunky Flow is particularly fond of beats
-    that have a very dark and groovy bassline, snares that 'snap' and spooky atmospheres.\n\nHe
-    is helping building the website as well as leading some martial arts workshops
-    (Capoeira) at the camp."
-- sys:
-    id: 3Um2e8MwQE06KAYK8YYcMO
-  name: Brian
-  desiredUrl: brian
-  order: 0
-  title: Koala
-  picture:
-    title: Koala
-    description: Koala
-    url: //images.contentful.com/s7od86xvrwx9/58i356BR1u8IEw2AcsqWUe/6e2a2beef2ac5351890258583f05081e/13322046_10103959398710074_943484235773277290_n.jpg
-  bio: |-
+    id: 3vsV2rlINyGsqSQOwUwOKw
+  title: New Website
+  content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -331,7 +302,7 @@ letter:
   heroLetter:
     title: 060-typewriter
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/58GcIea5h6kk06iWWsuc6W/6c0f5fb2b148ac1926dd630185bed9f9/060-typewriter.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/58GcIea5h6kk06iWWsuc6W/6c0f5fb2b148ac1926dd630185bed9f9/060-typewriter.jpg"
   title: Radical Ritual
   content: "Let it Go wants to be in line with and contribute to the collective evolutionary
     process that we're currently experiencing.\n \nWe would like to provide a space
@@ -371,19 +342,19 @@ contentOnAllPages:
   heroImageHomepage:
     title: home
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/2zMpAawhMcsmyYukQQGyEo/84555bdc4f63b529402b88e5f0c42876/home.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/2zMpAawhMcsmyYukQQGyEo/84555bdc4f63b529402b88e5f0c42876/home.jpg"
   heroImageWorkGroupLandingPage:
     title: initiatives
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/2OWszG0ODe86EkqWo8aOKe/6b5f07fb64ca04fc9a87dc483dd8ba3c/initiatives.JPG
+    url: "//images.contentful.com/s7od86xvrwx9/2OWszG0ODe86EkqWo8aOKe/6b5f07fb64ca04fc9a87dc483dd8ba3c/initiatives.JPG"
   heroImageNewsLandingPage:
     title: news
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/617CBbUz4sumwQe6y2KSai/d88ad7ccc337d79f2f9c6d8295066f71/news.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/617CBbUz4sumwQe6y2KSai/d88ad7ccc337d79f2f9c6d8295066f71/news.jpg"
   heroContactUsPage:
     title: contact-us
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/5ZDizfIUCWOYY2wSyku0KW/1d85d1511a5996d5be1f5d540aac5d28/contact-us.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/5ZDizfIUCWOYY2wSyku0KW/1d85d1511a5996d5be1f5d540aac5d28/contact-us.jpg"
   aboutLetItGoText: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -394,11 +365,11 @@ contentOnAllPages:
   aboutImage:
     title: about-2
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/2jmI79elzi246EYGkGIYAS/09d24febc73898b1b04408929de99699/about-2.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/2jmI79elzi246EYGkGIYAS/09d24febc73898b1b04408929de99699/about-2.jpg"
   aboutImage2:
     title: about-1
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/2XsgbxRvSoqSMIUGM0ec6Q/68e9e9e07050112c7402b98d07a13cfb/about-1.jpg
+    url: "//images.contentful.com/s7od86xvrwx9/2XsgbxRvSoqSMIUGM0ec6Q/68e9e9e07050112c7402b98d07a13cfb/about-1.jpg"
   contactUsText: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
