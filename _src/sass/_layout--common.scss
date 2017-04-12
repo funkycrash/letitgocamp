@@ -188,14 +188,11 @@ nav {
     position: relative;
 }
 .site-title {
-    img {
-        width: 220px;
-        margin-left: 21px;
-        margin-top:12px;
+    svg {
+        margin-left: 10px;
         @media screen and #{$brk-narrow} {
-            width: 160px;
-            margin-left: -13px;
-            margin-top: 12px;
+                width: 60px !important;
+                height: 60px !important;
         }
     }   
 }
