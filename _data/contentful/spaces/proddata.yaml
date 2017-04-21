@@ -493,13 +493,9 @@ contentOnAllPages:
     title: contact-us
     description: 
     url: //images.contentful.com/s7od86xvrwx9/5ZDizfIUCWOYY2wSyku0KW/1d85d1511a5996d5be1f5d540aac5d28/contact-us.jpg
-  aboutLetItGoText: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  aboutLetItGoText: We imagine Burning Man to be the perfect environment for profound
+    personal transformations and consciousness expanding experiences. __Welcome to
+    our burning man family from the bottom of our hearts!__
   aboutImage:
     title: about-2
     description: 
@@ -509,9 +505,5 @@ contentOnAllPages:
     description: 
     url: //images.contentful.com/s7od86xvrwx9/2XsgbxRvSoqSMIUGM0ec6Q/68e9e9e07050112c7402b98d07a13cfb/about-1.jpg
   contactUsText: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    We do not take any application to join the camp anymore! But feel free to check out our instagram or facebook page to see what we're up to!
+    __Love & Peace__
