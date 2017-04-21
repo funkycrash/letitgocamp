@@ -1,57 +1,368 @@
 ---
-newsPost:
+campMember:
 - sys:
-    id: 3vsV2rlINyGsqSQOwUwOKw
-  title: New Website
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-letter:
-- sys:
-    id: 6y9JxGYKqs86WkgAaMkaQs
-  year: 2017
-  heroLetter:
-    title: 060-typewriter
+    id: 4AHdE9I6uk6G6qGoeQwKqK
+  name: Silvia
+  desiredUrl: silvia
+  picture:
+    title: silvia
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/58GcIea5h6kk06iWWsuc6W/6c0f5fb2b148ac1926dd630185bed9f9/060-typewriter.jpg
-  title: Radical Ritual
-  content: "Let it Go wants to be in line with and contribute to the collective evolutionary
-    process that we're currently experiencing.\n \nWe would like to provide a space
-    that’s comfortable for people regardless of their cultural background or spiritual
-    beliefs.  The ability to let go of our mind-created sense of self stands at the
-    root of all major religions and spiritual teachings and leads to an all-encompassing,
-    more peaceful attitude toward life full of love, understanding, wisdom, compassion
-    and oneness.\n \nCreating a space of shared awareness, where we feel free to reveal
-    our most intimate emotions, thoughts, and self.  A space where you need not fear
-    being judged and you can be your true self, or explore all the possibilities of
-    who you can be. A space where you can connect and explore territories of love
-    and trust where everyone gives and receives to help bridge the gap between you
-    and I.  __A space to learn.  A space to teach.  A space to let. it. go.__\n \nOur
-    reason for existence/purpose is ultimately to encourage people to let go of the
-    conceptual mind that seems to know who we are and what's reality, the ego.  It’s
-    the voice in your head that's pretending to be us, but it’s mainly concerned on
-    survival, it prevents us from being present in each moment.  It prevents us from
-    being at ease in our lives and from reaching our most innate dreams and visions.
-    \ Thoughts of past and future, self-doubt, self-pity, and paranoia are all manifestations
-    of the ego that are keeping you from being present in the universe, the state
-    of being that your soul is longing for.  It's absolutely vital to human health
-    to have access to the inner stillness.  When everyone acts from a place of oneness,
-    of egolessness, there will be no more warfare, racism, division, and greed.  Ultimately,
-    we want to create a better, happier and more peaceful world. Right here, right
-    now, is the only place there is and ever will be and the only place where we can
-    truly be ourselves.\n \nWe wish to help direct people towards a place within that
-    is of love and peace, a place that is pure.  There are different possibilities
-    for people to let go of their minds, their bodies, their limiting beliefs and
-    most importantly the suffering that is essentially not 'your' suffering.  Routes
-    of exploration could be through yoga, meditation, psychedelic journeys, expressive
-    dance, intuitive painting and much more.\n \nWe imagine Burning Man to be the
-    perfect environment for profound personal transformations and consciousness expanding
-    experiences.  __Welcome to our burning man family from the bottom of our hearts!__"
+    url: //images.contentful.com/s7od86xvrwx9/2jZdRQi8qccgiaYgUKek6S/17719601d3d7cf43e5be47910970b53c/17523313_10155246163082425_6301240772289290743_n.jpg
+  bio: |-
+    Silvia is an amazing woman. Living in San Francisco she is always willing, happy, generous, thoughtful and will be an amazing addition to the camp. It's gonna be her first burn and she is more than excited to join us and contribute as much as she can.
+
+
+    Hello! I am Silvia aka Sil! I am a Texas transplant living in the bay for over 5 years. I am originally from San Antonio and after having spent 8 years in Austin decided to move to the city that stole my heart, San Francisco. I have a passion for animals, music, motorcycles, dancing, and the outdoors. This will be my first burn and I couldn't be more excited to experience everything it has to offer. (www.silviapets.com)
+- sys:
+    id: 1Ebdf73vtCY48KyIWiqwCa
+  name: Jacinta
+  desiredUrl: jacinta
+  picture:
+    title: 17951477 10110289169388884 8009942257391000291 n
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/3RYkPCOCGsAiayYw6O4YUu/9c926486671cec8da52cee2eaf6dfa6b/17951477_10110289169388884_8009942257391000291_n.jpg
+  bio: "Hi my name is Jacinta. \n\nLast year was my first burn and i never really
+    left... i decided to meet up with some of the let it go tribesmen on the other
+    side of the world. currently posted up in byron bay working with the wonderful
+    Tarah at rainbow yoga. I’m so grateful for every thing and every one that is part
+    of this camp, we really are a family. \n\ncan i dress you up? can we dance naked?
+    how many flash tats can i put on your body?\n\nlets get lost in the desert"
+- sys:
+    id: 5gkoRJE4RaY2SmIS8m0yo6
+  name: Rohan
+  desiredUrl: rohan
+  picture:
+    title: Rohan
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/7HiSx46GCkQ8g4iYouuQAw/aa2fe2a21c40c8aeca2cb7e2933d3ad5/17990298_10158493985705332_2046479787780309995_o.jpg
+  bio: Hi! I'm Rohan. My first burn was in 2015, and after eating our last piece of
+    beef jerky, one of my friends called me a motherfucker, so I've taken that on
+    in my playa name with Oedipus. 2017 is my 3rd burn, and my 2nd with the inimitable
+    Let It Go. I'm originally from Sydney, but I've been living in New York for the
+    last three years. I enjoy putting on zany events; bringing uncomfortable amounts
+    of energy to things when others are fading and having epiphanies about how great
+    my life is. I'm also currently writing a deep house musical. Hope to meet you
+    on the playa!
+- sys:
+    id: OUYwBoxY62OYS8AS2UA6Y
+  name: Tarah
+  desiredUrl: tarah
+  picture:
+    title: tarah
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/437jgPpJdSG0Qokm84eqSM/490c48008929bb52d40fc8d6e5b02f6a/17855516_1499374723466707_127083736354424395_o.jpg
+  bio: 'Hello! I''m Tarah. My first year at Burning Man was 2012. I''ve been with
+    camp Let it Go for 4 years now, but have been with the Let it Go family at Burning
+    man for 2 years (2013 & 2014). Before camp Let it Go, I created a new Playa Pail
+    Kid (Ex-Stacy) for the Playa Pail Kids camp. I have created a handful of graphic
+    art images and large-scale printed art for camp Let it Go and plan to continue
+    to do so in the future. I enjoy playing, teaching and learning with my mini-me
+    burner babe, Enid...exploring new outdoor ground...and creating fiber art designs
+    (www.terradesign.info). '
+- sys:
+    id: 6pfUA98KY0EicAMWE8go06
+  name: Jon
+  desiredUrl: jon
+  picture:
+    title: 17800308 10158431682490332 5589254877919381559 n
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/10gDNOuxqOAiEgSi4KSySo/d7ca47271e5a487ae7566e4da7683a61/17800308_10158431682490332_5589254877919381559_n.jpg
+  bio: Jon, will be joining the Let It Go family from Sydney this year for his first
+    burn through an invitation from Rohan. Rohan and Jon have been friends for 13
+    years and they were last together in Sri Lanka, where Rohan accidentally crashed
+    his wedding proposal. To make up for it, Rohan is bringing him to BM! Jon is hilarious,
+    observant, creative and adept at planning off-the-wall celebrations
+- sys:
+    id: 14c9RpUvBsWUUCKKiuqeMi
+  name: Sundance
+  desiredUrl: sundance
+  title: Kitchen, Water, & Trash Master
+  picture:
+    title: sundance
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/Vdst6bHAGGAW6iiaCqKO6/493232199b5cb9173240be1731c76dbe/17855603_10105472262064787_7547854519648161924_o.jpg
+  bio: Hola! I'm Connor and you can call me Sundance, because yes - you' may find
+    me dancing in the sun ;) I'm originally from southern California & have been living
+    in San Diego since 2014 when I met Koala & Jenny through craigslist (imagine that!)
+    to become their roomates just after having attended BM in 2013 for my first time.
+    Since then I've been with LIG and last year spearheaded organizing the Kitchen,
+    Water, & Trash, so please feel free to direct any questions you may have my way!
+    Looking forward to meeting ya'll!
+- sys:
+    id: 4NcKuzFbbGa6OIUU6GGosm
+  name: Mistress Jade
+  desiredUrl: mistress-jade
+  order: 3
+  title: Spanker
+  picture:
+    title: 17634369 10154193824857583 5463571134298561397 n
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/2fyKjl82WkIeaMi2E2c0qs/08bcad93acd0e5e713b027fc5bea2929/17634369_10154193824857583_5463571134298561397_n.jpg
+  bio: 'I''m Sophia AKA Lion Mane AKA Mistress Jade...From Long Beach, California,
+    but now live in Seattle and loving the PNW. Love to write poetry, dance, smoke
+    da herbs, and making/growing things! BDSM and fetishism are a couple of my (not
+    so) secret obsessions and I enjoy giving out spankings, floggings, and other punishments
+    at camp. I''m looking forward to offering a haiku/literature workshop in the future.
+    Let It Go was and always will be my home and I love our ever growing family! '
+- sys:
+    id: 5UgdsEYHXUAsCqC2OoIUSC
+  name: Funky Flow
+  desiredUrl: funky-flow
+  order: 1
+  title: Webmaster
+  picture:
+    title: Funky Flow
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/4gfPl8uBxesYgKUGU2Q4Uk/ac341062de95416f76d21052023c141c/17098291_10154329568439109_2827365495101023446_n.jpg
+  bio: "Funky Flow is a French music producer and DJ born in Biarritz, a beach town
+    where surf, sand, and dirty dancing abound. He is a passionate artist surfing
+    the tech-funk genre. He shows dynamic range and isn't afraid to bend genres, dabbling
+    in slow acid techno, electro swing, and tech house. Funkenstein started mixing
+    in San Francisco, where the electronic music scene has reached a fever pitch.
+    From 2009-2010, he had a residency in two clubs in Oxford, England. He has since
+    played a series of private events in and around Paris, including the annual Burning
+    Night at the Moulin Rouge in 2013. \n\nFunky Flow is particularly fond of beats
+    that have a very dark and groovy bassline, snares that 'snap' and spooky atmospheres.\n\nHe
+    is helping building the website as well as leading some martial arts workshops
+    (Capoeira) at the camp."
+- sys:
+    id: 615hWY6vyoemaOqoi4kooO
+  name: Anne-Sophie
+  desiredUrl: anne-sophie
+  picture:
+    title: Anne So
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/3fjMLRZvPiueMmyGgYgYsG/213bd2138bd46a42d1abf29960ccfdc7/17879992_10155255919807425_1826005680614761147_o.jpg
+  bio: I am Anne-Sophie AKA Anso, and still looking for my playa name.. I am from
+    Reims, city of Champagne in France - I have been living in San Francisco since
+    2012. I joined Let It Go in 2015 for my first burn, 2017 will be my second. I
+    love cooking, dancing and taking pictures; I always have been fascinated by photography
+    since I can remember, so, if you want to have your photo taken come see me. (www.ansophotos.com)
+- sys:
+    id: 5LLkfEgOdOcC0CGQy66C2g
+  name: Woody
+  desiredUrl: woody
+  title: Unicyclist
+  picture:
+    title: 17966535 10104854304257184 8555507480172980717 o
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/3RhTfiFA9a0SY0oqg4CcQS/fecf299b8014387d35216b0313ae8faa/17966535_10104854304257184_8555507480172980717_o.jpg
+  bio: "Woody has been Let It Go’s resident Unicyclist and Eagle Scout since his first
+    Burn in 2013. Voted “Most Likely to Bleed” 4 Burns in a row, this cognitive scientist
+    looks forward to reprising his role as the Head of the 2nd Annual Ninja Parade
+    at 2017's Burn Night. In the default world he’s currently recruiting for the Dream
+    Team in his MAR5 Colonization proposal, editing his first book, and claims to
+    do “tech stuff” to pay the bills. \n\nWanna hear his time travel joke...? Again?"
+- sys:
+    id: 4omjczPUCk04ymykyeMW68
+  name: Mikaela
+  desiredUrl: mikaela
+  picture:
+    title: 17973939 10156039856584115 4481917199760418372 o
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/4R51jDNAS4uO8E2CQ2KaO6/70d24458f6658ac66c19731f8c8c4c93/17973939_10156039856584115_4481917199760418372_o.jpg
+  bio: "Mikaela is an incredible artist who makes the most beautiful costumes we've
+    laid eyes on.\nShe has been helping a ton with camp and Lono (Martin's art car)
+    and never seem to run out of good ideas.\nShe plans on teaching classes in SF
+    and at BRC about making headpieces, so stay tuned to get your own ;) "
+- sys:
+    id: 4g9lIkV73qaIOqycIEeamk
+  name: Maia V
+  desiredUrl: maia-v
+  title: Bombaclak
+  picture:
+    title: Maia
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/VTBVqrtREQIcSga64wGsq/5e9857b90d7366676d422f662322f9cd/18033796_10154345774856087_6459434349946759508_n.jpg
+  bio: |-
+    I'm Maia V - Donnie V's sister- I'm from New York- saw the twin towers fall down man- so I'm never forgetting 9/11 dudes - harsh reality- this is my 4th burn with my brother Donnie V - just tryna make DANK memes to
+    Cope
+    With the tragedy - but finally found my peace at burning man - love it- sometimes I get flash backs when the man burns- NORTH TOWER SOUTH TOWER - that kinda stuff - but in general
+    I look at the stars and it's irie -big up bambaclat!
+- sys:
+    id: 4m159VixeUWMYwyIWyyS06
+  name: Donnie V
+  desiredUrl: donnie-v
+  title: Tour Guide
+  picture:
+    title: 17880518 10158728178670195 4859140011684692380 o
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/3zsSZ0tY7Ss4CqkYK64s6E/2653ed724388c844665d504783278f43/17880518_10158728178670195_4859140011684692380_o.jpg
+  bio: "Hello! I'm Don aka Donnie V aka Playa Flav aka Punani. Born in NYC, grew up
+    (sort of) in Sydney and moved to California in the late 90s (SF/Tahoe/LA and SF).
+    Been burning since 2011 with various camps as a tour guide/ bike mechanic/ drill
+    sergeant/ babysitter/ marriage counselor/ comedy act/ cook/ bartender/ janitor/
+    male stripper/ mascot/ lifeguard/ missing person. \n\nMy proudest moment was being
+    the tour guide for 8 virgins on Burn Night 2016 and bringing them all back to
+    camp clinically alive and in one piece the next morning. I love Deep Playa adventures,
+    Bubbles n Bass, Mayan Warrior, fire, lasers, Albert Hoffman's work, any/all herbs
+    and fungus, and Disco music. \n\nIn the default world where I pretend to be a
+    responsible adult, I love to surf, ski and work in the Biotech/Pharma industry.
+    I look forward to meeting everyone here!"
+- sys:
+    id: 72hf6WRZaouKoGo008wA4O
+  name: Chloe
+  desiredUrl: chloe
+  title: Artist
+  picture:
+    title: chloe
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/5D6ZSLfoiWGCewE6KYaMcI/670c6d9547292e3e22b66867d753bbc4/17834148_10154458816684109_5876407912249184646_o.jpg
+  bio: Chloe is a French-American artist based in the east bay and she loves meditation,
+    dancing and has lived in DC, Paris, Kyoto, NYC. east bay for the last 2 years.
+    It's going to be her first burn and she already has a really cool Burner attitude
+    so the dust will just make it better!
+- sys:
+    id: 6m5pWZX80EW6WgcoyOaiOG
+  name: Martin
+  desiredUrl: martin
+  order: 0
+  title: Lead Camp Master
+  picture:
+    title: Martin
+    description: Martin
+    url: //images.contentful.com/s7od86xvrwx9/v46tyT5xAW8YgQogY4cIk/0eef4dfd75fdf6f60486d95b4b74f312/martin.jpg
+  bio: 'My name is Martin, I am from a small island in the Caribbean called Guadeloupe
+    and I have been living in the bay area since 2008. I like sailing and building
+    things. I joined Let It Go in 2015 and this year I took over the organization
+    of camp with the hopes to keep the fire burning! When I am not working on preparing
+    camp I am usually working on Lono! You can check him out here: [https://www.maranart.org/lono/](https://www.maranart.org/lono/)'
 workGroup:
+- sys:
+    id: 2yYvwOp6PqasYk6AeYeEWE
+  title: Planning & Logistics
+  desiredUrl: planning-logistics
+  heroImage:
+    title: planning-logistics
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg
+  workGroupBlurb: It all starts with a plan
+  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
+    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
+    for people to be responsible for the book keepings as well as logisitics. \n\n"
+  ourFocusImage1:
+    title: Screen Shot 2017-03-15 at 21.04.27
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/TSoFa5NLeoY8uGo8i0Wu8/8e6c53fe3f0f3ff18cab92b0279364e0/Screen_Shot_2017-03-15_at_21.04.27.png
+  ourFocusImage2:
+    title: '041'
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6xFcVDpveo0mk6YCAWMku6/565407e33de8475c9d737429203dd22c/041.JPG
+  theInitiativeText: "\n### __Accounting__ \n\nIn charge of collecting camp dues,
+    budgeting, distributing moneys, reimbursing people etc.\n\nUse our Burning Man
+    2017 Google Spreadsheet to track budget.  \n\nCollect money through paypal or
+    venmo. \n\n### __Transportation & Storage__\n### \nThis team is in charge of bringing
+    all the equipment to the playa and drop it off in Tahoe on the way back. \n\nA
+    hauling vehicle will need to be used to haul the trailer. \n\nWe will need volunteers
+    to do the driving. Potentially from the Eclipse fesvtival in Oregon and/or Tahoe
+    and returning the trailer to Tahoe. \n\nA checklist of items will be maintained
+    in the master spreadsheet.\n\n### __Water & Trash__###\n\nThis department is in
+    charge of organizing delivery of water to the playa, pump out of grey water, trash
+    management at camp (trash, compost and recycle)\n\nWater delivery is organized
+    through Fresca Waterhouse. Last year we rented a XX gallon tank. Orders should
+    be done before July for the best pricing.  Tanks will need to be picked up, the
+    delivery date and time will need to be pre arranged with the water store. [Check
+    their website for details.](http://www.frescawaterhouse.com/burning-man-water/)\n\nGray
+    water - Last year, Connor fashioned a gray water system with a kiddie pool.  It
+    took a long time for the gray water to evaporate so we are looking for a better
+    method.  This team will be responsible for creating a solution for managing gray
+    water as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is
+    home to a most of the shared trash for Burning Man.  This team is responble for
+    organizing recycling and trash can materials, setup and disposal. "
+- sys:
+    id: 1fsJItw2Nmo2KMq8yGYkai
+  title: Camp Social
+  desiredUrl: camp-social
+  heroImage:
+    title: camp-social
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/553K067x6UQ0sKIAmYWcko/c3203ea091e986681c60eaf29c529db8/camp-social.jpg
+  workGroupBlurb: May adventure find you and you find it. c
+  workGroupSubtitle: Fun & Social
+  theOpportunity: "One of the special things about our camp is the bonds that we are
+    able to create over such a short period of time!  Camp social events and workshops
+    enable us to connect as a group. \n\n\n\n\n"
+  ourFocusImage1:
+    title: P8270070
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/1ShiJGAPE86okE4ymA4Ye4/e9aa4996ac7385e5fd6e637106d798c7/P8270070.JPG
+  ourFocusImage2:
+    title: IMG 1747
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/1QmW8Yry5eGeKWUGAOk2wc/78666351a040a2a7c5cecd55b6f04420/IMG_1747.JPG
+  ourFocusImage3:
+    title: Camp Schedule 2016
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/4FI7hVHo8U6SkqsAWMQime/6b8e95e9327288ba90b79d76643f76eb/131.JPG
+  theInitiativeText: "__Camp Adventure: __\nWe need some adventure leaders to plan
+    camp excursions or adventure. \n\nAdventures should be interactive, mystical,
+    include everybody, and go on for a hours. Or you know, a BBQ in Deep Playa is
+    totally acceptable too \U0001F609  Last year, Brian and Nate organized an engaging
+    final ceremony complete with a live action story played out by camp members. \n\n__Workshops:__\nWorkshops
+    are open for anyone to attend. In the past, Camp Let it Go has offered workshops
+    on capoeira, yoga and meditation. We need your help with setting up some fun,
+    interesting and meaningful workshops for camp this year.  Use your talents to
+    teach a skill or lead an important discussion. Any suggestions are welcome.  \n\nWorkshops
+    will be scheduled in advance and listed on the Let it Go schedule.  \n\nStarting
+    in June, we can submit our workshop schedule to the Burning Man organizers to
+    be listed in the What Where When booklet.  The booklets are distributed to each
+    attendee so this is a great way to advertise the Let it Go contribution. \n\n__Camp
+    Duties:__ Members volunteer for camp duties to help camp run efficiently.  Duties
+    include ice runs, cooking and cleaning, decorating etc. Members can sign up for
+    camp duties on the master Let it Go spreadsheet.  Everyone is expected to participate
+    in camp duties!\n\n\nTHE BAR\n__For people new to Burning Man__: Burning man has
+    little if no services provided by the festival. The people that come are the ones
+    who put together the music, the stages, the art, the bars, and the food/gifts.
+    The city is made by you!\n\nThe bar is one of the ways our camp gives back to
+    black rock city. (The city that is burning man). We ask that you work some shifts.
+    If you don’t know how to make drinks, all good! Here’s your chance to learn! Also
+    If you don’t have a scheduled shift you can always jump back there to help! It’s
+    a great way to make people happy, meet people, and hear their crazy burning man
+    stories! All you gotta say, is how was your day!\n\n Bar duties\n- Have a drink,
+    you’re a fucking bartender.\n- We have a wheel that people spin to see what they
+    need to do for a drink \U0001F609\n- Check IDs\n- If your shift is 2-5 get Ice
+    before your shift \U0001F642\n- Empty trash and replace bag at beginning of shift
+    if it’s full.\n- Dump half empty beers/drinks in a bucket, do not throw away cups
+    only beer cans/bottles.\n- End of shift, clean off the bar for the next person
+    replace full trash if full. (Some redundancy here in case)\n- Last shift people-
+    if no one else is there, close down the bar. \n\nIce Run\nIn the past we were
+    doing ice runs twice a day. Some days we spent close to $60-70 a day on ice. I
+    am wondering if we could potentially switch to a chest freezer running of solar.\n[Link
+    here](http://www.aselfsufficientlife.com/chest-freezer-to-fridge-conversion-the-most-energy-efficient-fridge-ever.html)"
+- sys:
+    id: 4HOX4zNvFYAqMAm4ikIe2I
+  title: Infrastructure
+  desiredUrl: infrastructure
+  heroImage:
+    title: infrastructure
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/4zv9ZugzSoOwAyaEWycCCM/cc7c456aefbc04adc1278a756d65a268/infrastructure.jpg
+  workGroupBlurb: Electrical Grid, Tents & Shade Infrastructure & Common Area
+  workGroupSubtitle: Build Our Camp!
+  theOpportunity: |-
+    Here is how you can help!
+
+    __Electrical Grid__: This department is here to support the camp’s power infrastructure. Aiming for solar, we provide power to the kitchen, the water supply, the lights that run the camp at night, and other parts of the general infrastructure (evap pond)
+
+
+    __Tents & Shade Infrastructure__: This crew is in charge of bringing order to the chaos that tents can be. Line them up and shade them up!
+
+
+    __Common area Infrastructure__: This department is in charge of everything that is common space. Tower, seating, couches, fire barrel, shower, storage, domes etc.
+  statementForMosaicGalleryTopRight: We shape our buildings; thereafter they shape
+    us. - Churchill
+  statementForMosaicGalleryBottomLeft: Whatever good things we build end up building
+    us. - Jim Rohn
+  ourFocusImage1:
+    title: Camp decor
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6bmNysW1ZSuYEkkSEEY6u4/b55ebfc8fba070ea71589992595f339b/150.JPG
+  ourFocusImage3:
+    title: '138'
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/As4GcotJD2WC68mGkYyks/331d255359ac2511c12b04e721fd34db/138.JPG
+  theInitiativeText: Placeholder text for what are the steps required to join this
+    group.
 - sys:
     id: 2E92F7DyziqOGqqIusKOsA
   title: Kitchen
@@ -125,355 +436,6 @@ workGroup:
     crafts\n- Bring arts and crafts supplies to camp so that we can continue to work
     on arts and crafts before and during the burn\n\nOutstanding questions - \nWhere
     is the Let It Go sign ?\nWill we have the lotus dome? \n\n\n"
-- sys:
-    id: 4HOX4zNvFYAqMAm4ikIe2I
-  title: Infrastructure
-  desiredUrl: infrastructure
-  heroImage:
-    title: infrastructure
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/4zv9ZugzSoOwAyaEWycCCM/cc7c456aefbc04adc1278a756d65a268/infrastructure.jpg
-  workGroupBlurb: Electrical Grid, Tents & Shade Infrastructure & Common Area
-  workGroupSubtitle: Build Our Camp!
-  theOpportunity: |-
-    Here is how you can help!
-
-    __Electrical Grid__: This department is here to support the camp’s power infrastructure. Aiming for solar, we provide power to the kitchen, the water supply, the lights that run the camp at night, and other parts of the general infrastructure (evap pond)
-
-
-    __Tents & Shade Infrastructure__: This crew is in charge of bringing order to the chaos that tents can be. Line them up and shade them up!
-
-
-    __Common area Infrastructure__: This department is in charge of everything that is common space. Tower, seating, couches, fire barrel, shower, storage, domes etc.
-  statementForMosaicGalleryTopRight: We shape our buildings; thereafter they shape
-    us. - Churchill
-  statementForMosaicGalleryBottomLeft: Whatever good things we build end up building
-    us. - Jim Rohn
-  ourFocusImage1:
-    title: Camp decor
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6bmNysW1ZSuYEkkSEEY6u4/b55ebfc8fba070ea71589992595f339b/150.JPG
-  ourFocusImage3:
-    title: '138'
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/As4GcotJD2WC68mGkYyks/331d255359ac2511c12b04e721fd34db/138.JPG
-  theInitiativeText: Placeholder text for what are the steps required to join this
-    group.
-- sys:
-    id: 1fsJItw2Nmo2KMq8yGYkai
-  title: Camp Social
-  desiredUrl: camp-social
-  heroImage:
-    title: camp-social
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/553K067x6UQ0sKIAmYWcko/c3203ea091e986681c60eaf29c529db8/camp-social.jpg
-  workGroupBlurb: May adventure find you and you find it. c
-  workGroupSubtitle: Fun & Social
-  theOpportunity: "One of the special things about our camp is the bonds that we are
-    able to create over such a short period of time!  Camp social events and workshops
-    enable us to connect as a group. \n\n\n\n\n"
-  ourFocusImage1:
-    title: P8270070
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/1ShiJGAPE86okE4ymA4Ye4/e9aa4996ac7385e5fd6e637106d798c7/P8270070.JPG
-  ourFocusImage2:
-    title: IMG 1747
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/1QmW8Yry5eGeKWUGAOk2wc/78666351a040a2a7c5cecd55b6f04420/IMG_1747.JPG
-  ourFocusImage3:
-    title: Camp Schedule 2016
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/4FI7hVHo8U6SkqsAWMQime/6b8e95e9327288ba90b79d76643f76eb/131.JPG
-  theInitiativeText: "__Camp Adventure: __\nWe need some adventure leaders to plan
-    camp excursions or adventure. \n\nAdventures should be interactive, mystical,
-    include everybody, and go on for a hours. Or you know, a BBQ in Deep Playa is
-    totally acceptable too \U0001F609  Last year, Brian and Nate organized an engaging
-    final ceremony complete with a live action story played out by camp members. \n\n__Workshops:__\nWorkshops
-    are open for anyone to attend. In the past, Camp Let it Go has offered workshops
-    on capoeira, yoga and meditation. We need your help with setting up some fun,
-    interesting and meaningful workshops for camp this year.  Use your talents to
-    teach a skill or lead an important discussion. Any suggestions are welcome.  \n\nWorkshops
-    will be scheduled in advance and listed on the Let it Go schedule.  \n\nStarting
-    in June, we can submit our workshop schedule to the Burning Man organizers to
-    be listed in the What Where When booklet.  The booklets are distributed to each
-    attendee so this is a great way to advertise the Let it Go contribution. \n\n__Camp
-    Duties:__ Members volunteer for camp duties to help camp run efficiently.  Duties
-    include ice runs, cooking and cleaning, decorating etc. Members can sign up for
-    camp duties on the master Let it Go spreadsheet.  Everyone is expected to participate
-    in camp duties!\n\n\nTHE BAR\n__For people new to Burning Man__: Burning man has
-    little if no services provided by the festival. The people that come are the ones
-    who put together the music, the stages, the art, the bars, and the food/gifts.
-    The city is made by you!\n\nThe bar is one of the ways our camp gives back to
-    black rock city. (The city that is burning man). We ask that you work some shifts.
-    If you don’t know how to make drinks, all good! Here’s your chance to learn! Also
-    If you don’t have a scheduled shift you can always jump back there to help! It’s
-    a great way to make people happy, meet people, and hear their crazy burning man
-    stories! All you gotta say, is how was your day!\n\n Bar duties\n- Have a drink,
-    you’re a fucking bartender.\n- We have a wheel that people spin to see what they
-    need to do for a drink \U0001F609\n- Check IDs\n- If your shift is 2-5 get Ice
-    before your shift \U0001F642\n- Empty trash and replace bag at beginning of shift
-    if it’s full.\n- Dump half empty beers/drinks in a bucket, do not throw away cups
-    only beer cans/bottles.\n- End of shift, clean off the bar for the next person
-    replace full trash if full. (Some redundancy here in case)\n- Last shift people-
-    if no one else is there, close down the bar. \n\nIce Run\nIn the past we were
-    doing ice runs twice a day. Some days we spent close to $60-70 a day on ice. I
-    am wondering if we could potentially switch to a chest freezer running of solar.\n[Link
-    here](http://www.aselfsufficientlife.com/chest-freezer-to-fridge-conversion-the-most-energy-efficient-fridge-ever.html)"
-- sys:
-    id: 2yYvwOp6PqasYk6AeYeEWE
-  title: Planning & Logistics
-  desiredUrl: planning-logistics
-  heroImage:
-    title: planning-logistics
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg
-  workGroupBlurb: It all starts with a plan
-  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
-    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
-    for people to be responsible for the book keepings as well as logisitics. \n\n"
-  ourFocusImage1:
-    title: Screen Shot 2017-03-15 at 21.04.27
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/TSoFa5NLeoY8uGo8i0Wu8/8e6c53fe3f0f3ff18cab92b0279364e0/Screen_Shot_2017-03-15_at_21.04.27.png
-  ourFocusImage2:
-    title: '041'
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6xFcVDpveo0mk6YCAWMku6/565407e33de8475c9d737429203dd22c/041.JPG
-  theInitiativeText: "\n### __Accounting__ \n\nIn charge of collecting camp dues,
-    budgeting, distributing moneys, reimbursing people etc.\n\nUse our Burning Man
-    2017 Google Spreadsheet to track budget.  \n\nCollect money through paypal or
-    venmo. \n\n### __Transportation & Storage__\n### \nThis team is in charge of bringing
-    all the equipment to the playa and drop it off in Tahoe on the way back. \n\nA
-    hauling vehicle will need to be used to haul the trailer. \n\nWe will need volunteers
-    to do the driving. Potentially from the Eclipse fesvtival in Oregon and/or Tahoe
-    and returning the trailer to Tahoe. \n\nA checklist of items will be maintained
-    in the master spreadsheet.\n\n### __Water & Trash__###\n\nThis department is in
-    charge of organizing delivery of water to the playa, pump out of grey water, trash
-    management at camp (trash, compost and recycle)\n\nWater delivery is organized
-    through Fresca Waterhouse. Last year we rented a XX gallon tank. Orders should
-    be done before July for the best pricing.  Tanks will need to be picked up, the
-    delivery date and time will need to be pre arranged with the water store. [Check
-    their website for details.](http://www.frescawaterhouse.com/burning-man-water/)\n\nGray
-    water - Last year, Connor fashioned a gray water system with a kiddie pool.  It
-    took a long time for the gray water to evaporate so we are looking for a better
-    method.  This team will be responsible for creating a solution for managing gray
-    water as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is
-    home to a most of the shared trash for Burning Man.  This team is responble for
-    organizing recycling and trash can materials, setup and disposal. "
-campMember:
-- sys:
-    id: 4m159VixeUWMYwyIWyyS06
-  name: Donnie V
-  desiredUrl: donnie-v
-  title: Tour Guide
-  picture:
-    title: 17880518 10158728178670195 4859140011684692380 o
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/3zsSZ0tY7Ss4CqkYK64s6E/2653ed724388c844665d504783278f43/17880518_10158728178670195_4859140011684692380_o.jpg
-  bio: "Hello! I'm Don aka Donnie V aka Playa Flav aka Punani. Born in NYC, grew up
-    (sort of) in Sydney and moved to California in the late 90s (SF/Tahoe/LA and SF).
-    Been burning since 2011 with various camps as a tour guide/ bike mechanic/ drill
-    sergeant/ babysitter/ marriage counselor/ comedy act/ cook/ bartender/ janitor/
-    male stripper/ mascot/ lifeguard/ missing person. \n\nMy proudest moment was being
-    the tour guide for 8 virgins on Burn Night 2016 and bringing them all back to
-    camp clinically alive and in one piece the next morning. I love Deep Playa adventures,
-    Bubbles n Bass, Mayan Warrior, fire, lasers, Albert Hoffman's work, any/all herbs
-    and fungus, and Disco music. \n\nIn the default world where I pretend to be a
-    responsible adult, I love to surf, ski and work in the Biotech/Pharma industry.
-    I look forward to meeting everyone here!"
-- sys:
-    id: 6m5pWZX80EW6WgcoyOaiOG
-  name: Martin
-  desiredUrl: martin
-  order: 0
-  title: Lead Camp Master
-  picture:
-    title: Martin
-    description: Martin
-    url: //images.contentful.com/s7od86xvrwx9/v46tyT5xAW8YgQogY4cIk/0eef4dfd75fdf6f60486d95b4b74f312/martin.jpg
-  bio: 'My name is Martin, I am from a small island in the Caribbean called Guadeloupe
-    and I have been living in the bay area since 2008. I like sailing and building
-    things. I joined Let It Go in 2015 and this year I took over the organization
-    of camp with the hopes to keep the fire burning! When I am not working on preparing
-    camp I am usually working on Lono! You can check him out here: [https://www.maranart.org/lono/](https://www.maranart.org/lono/)'
-- sys:
-    id: 72hf6WRZaouKoGo008wA4O
-  name: Chloe
-  desiredUrl: chloe
-  title: Artist
-  picture:
-    title: chloe
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/5D6ZSLfoiWGCewE6KYaMcI/670c6d9547292e3e22b66867d753bbc4/17834148_10154458816684109_5876407912249184646_o.jpg
-  bio: Chloe is a French-American artist based in the east bay and she loves meditation,
-    dancing and has lived in DC, Paris, Kyoto, NYC. east bay for the last 2 years.
-    It's going to be her first burn and she already has a really cool Burner attitude
-    so the dust will just make it better!
-- sys:
-    id: 615hWY6vyoemaOqoi4kooO
-  name: Anne-Sophie
-  desiredUrl: anne-sophie
-  picture:
-    title: Anne So
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/3fjMLRZvPiueMmyGgYgYsG/213bd2138bd46a42d1abf29960ccfdc7/17879992_10155255919807425_1826005680614761147_o.jpg
-  bio: I am Anne-Sophie AKA Anso, and still looking for my playa name.. I am from
-    Reims, city of Champagne in France - I have been living in San Francisco since
-    2012. I joined Let It Go in 2015 for my first burn, 2017 will be my second. I
-    love cooking, dancing and taking pictures; I always have been fascinated by photography
-    since I can remember, so, if you want to have your photo taken come see me. (www.ansophotos.com)
-- sys:
-    id: 5LLkfEgOdOcC0CGQy66C2g
-  name: Woody
-  desiredUrl: woody
-  title: Unicyclist
-  picture:
-    title: 17966535 10104854304257184 8555507480172980717 o
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/3RhTfiFA9a0SY0oqg4CcQS/fecf299b8014387d35216b0313ae8faa/17966535_10104854304257184_8555507480172980717_o.jpg
-  bio: "Woody has been Let It Go’s resident Unicyclist and Eagle Scout since his first
-    Burn in 2013. Voted “Most Likely to Bleed” 4 Burns in a row, this cognitive scientist
-    looks forward to reprising his role as the Head of the 2nd Annual Ninja Parade
-    at 2017's Burn Night. In the default world he’s currently recruiting for the Dream
-    Team in his MAR5 Colonization proposal, editing his first book, and claims to
-    do “tech stuff” to pay the bills. \n\nWanna hear his time travel joke...? Again?"
-- sys:
-    id: 4omjczPUCk04ymykyeMW68
-  name: Mikaela
-  desiredUrl: mikaela
-  picture:
-    title: 17973939 10156039856584115 4481917199760418372 o
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/4R51jDNAS4uO8E2CQ2KaO6/70d24458f6658ac66c19731f8c8c4c93/17973939_10156039856584115_4481917199760418372_o.jpg
-  bio: "Mikaela is an incredible artist who makes the most beautiful costumes we've
-    laid eyes on.\nShe has been helping a ton with camp and Lono (Martin's art car)
-    and never seem to run out of good ideas.\nShe plans on teaching classes in SF
-    and at BRC about making headpieces, so stay tuned to get your own ;) "
-- sys:
-    id: OUYwBoxY62OYS8AS2UA6Y
-  name: Tarah
-  desiredUrl: tarah
-  picture:
-    title: tarah
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/437jgPpJdSG0Qokm84eqSM/490c48008929bb52d40fc8d6e5b02f6a/17855516_1499374723466707_127083736354424395_o.jpg
-  bio: 'Hello! I''m Tarah. My first year at Burning Man was 2012. I''ve been with
-    camp Let it Go for 4 years now, but have been with the Let it Go family at Burning
-    man for 2 years (2013 & 2014). Before camp Let it Go, I created a new Playa Pail
-    Kid (Ex-Stacy) for the Playa Pail Kids camp. I have created a handful of graphic
-    art images and large-scale printed art for camp Let it Go and plan to continue
-    to do so in the future. I enjoy playing, teaching and learning with my mini-me
-    burner babe, Enid...exploring new outdoor ground...and creating fiber art designs
-    (www.terradesign.info). '
-- sys:
-    id: 14c9RpUvBsWUUCKKiuqeMi
-  name: Sundance
-  desiredUrl: sundance
-  title: Kitchen, Water, & Trash Master
-  picture:
-    title: sundance
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/Vdst6bHAGGAW6iiaCqKO6/493232199b5cb9173240be1731c76dbe/17855603_10105472262064787_7547854519648161924_o.jpg
-  bio: Hola! I'm Connor and you can call me Sundance, because yes - you' may find
-    me dancing in the sun ;) I'm originally from southern California & have been living
-    in San Diego since 2014 when I met Koala & Jenny through craigslist (imagine that!)
-    to become their roomates just after having attended BM in 2013 for my first time.
-    Since then I've been with LIG and last year spearheaded organizing the Kitchen,
-    Water, & Trash, so please feel free to direct any questions you may have my way!
-    Looking forward to meeting ya'll!
-- sys:
-    id: 6pfUA98KY0EicAMWE8go06
-  name: Jon
-  desiredUrl: jon
-  picture:
-    title: 17800308 10158431682490332 5589254877919381559 n
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/10gDNOuxqOAiEgSi4KSySo/d7ca47271e5a487ae7566e4da7683a61/17800308_10158431682490332_5589254877919381559_n.jpg
-  bio: Jon, will be joining the Let It Go family from Sydney this year for his first
-    burn through an invitation from Rohan. Rohan and Jon have been friends for 13
-    years and they were last together in Sri Lanka, where Rohan accidentally crashed
-    his wedding proposal. To make up for it, Rohan is bringing him to BM! Jon is hilarious,
-    observant, creative and adept at planning off-the-wall celebrations
-- sys:
-    id: 4NcKuzFbbGa6OIUU6GGosm
-  name: Mistress Jade
-  desiredUrl: mistress-jade
-  order: 3
-  title: Spanker
-  picture:
-    title: 17634369 10154193824857583 5463571134298561397 n
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/2fyKjl82WkIeaMi2E2c0qs/08bcad93acd0e5e713b027fc5bea2929/17634369_10154193824857583_5463571134298561397_n.jpg
-  bio: 'I''m Sophia AKA Lion Mane AKA Mistress Jade...From Long Beach, California,
-    but now live in Seattle and loving the PNW. Love to write poetry, dance, smoke
-    da herbs, and making/growing things! BDSM and fetishism are a couple of my (not
-    so) secret obsessions and I enjoy giving out spankings, floggings, and other punishments
-    at camp. I''m looking forward to offering a haiku/literature workshop in the future.
-    Let It Go was and always will be my home and I love our ever growing family! '
-- sys:
-    id: 5UgdsEYHXUAsCqC2OoIUSC
-  name: Funky Flow
-  desiredUrl: funky-flow
-  order: 1
-  title: Webmaster
-  picture:
-    title: Funky Flow
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/4gfPl8uBxesYgKUGU2Q4Uk/ac341062de95416f76d21052023c141c/17098291_10154329568439109_2827365495101023446_n.jpg
-  bio: "Funky Flow is a French music producer and DJ born in Biarritz, a beach town
-    where surf, sand, and dirty dancing abound. He is a passionate artist surfing
-    the tech-funk genre. He shows dynamic range and isn't afraid to bend genres, dabbling
-    in slow acid techno, electro swing, and tech house. Funkenstein started mixing
-    in San Francisco, where the electronic music scene has reached a fever pitch.
-    From 2009-2010, he had a residency in two clubs in Oxford, England. He has since
-    played a series of private events in and around Paris, including the annual Burning
-    Night at the Moulin Rouge in 2013. \n\nFunky Flow is particularly fond of beats
-    that have a very dark and groovy bassline, snares that 'snap' and spooky atmospheres.\n\nHe
-    is helping building the website as well as leading some martial arts workshops
-    (Capoeira) at the camp."
-- sys:
-    id: 4AHdE9I6uk6G6qGoeQwKqK
-  name: Silvia
-  desiredUrl: silvia
-  picture:
-    title: silvia
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/2jZdRQi8qccgiaYgUKek6S/17719601d3d7cf43e5be47910970b53c/17523313_10155246163082425_6301240772289290743_n.jpg
-  bio: |-
-    Silvia is an amazing woman. Living in San Francisco she is always willing, happy, generous, thoughtful and will be an amazing addition to the camp. It's gonna be her first burn and she is more than excited to join us and contribute as much as she can.
-
-
-    Hello! I am Silvia aka Sil! I am a Texas transplant living in the bay for over 5 years. I am originally from San Antonio and after having spent 8 years in Austin decided to move to the city that stole my heart, San Francisco. I have a passion for animals, music, motorcycles, dancing, and the outdoors. This will be my first burn and I couldn't be more excited to experience everything it has to offer. (www.silviapets.com)
-- sys:
-    id: 1Ebdf73vtCY48KyIWiqwCa
-  name: Jacinta
-  desiredUrl: jacinta
-  picture:
-    title: 17951477 10110289169388884 8009942257391000291 n
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/3RYkPCOCGsAiayYw6O4YUu/9c926486671cec8da52cee2eaf6dfa6b/17951477_10110289169388884_8009942257391000291_n.jpg
-  bio: "Hi my name is Jacinta. \n\nLast year was my first burn and i never really
-    left... i decided to meet up with some of the let it go tribesmen on the other
-    side of the world. currently posted up in byron bay working with the wonderful
-    Tarah at rainbow yoga. I’m so grateful for every thing and every one that is part
-    of this camp, we really are a family. \n\ncan i dress you up? can we dance naked?
-    how many flash tats can i put on your body?\n\nlets get lost in the desert"
-- sys:
-    id: 5gkoRJE4RaY2SmIS8m0yo6
-  name: Rohan
-  desiredUrl: rohan
-  picture:
-    title: Rohan
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/7HiSx46GCkQ8g4iYouuQAw/aa2fe2a21c40c8aeca2cb7e2933d3ad5/17990298_10158493985705332_2046479787780309995_o.jpg
-  bio: Hi! I'm Rohan. My first burn was in 2015, and after eating our last piece of
-    beef jerky, one of my friends called me a motherfucker, so I've taken that on
-    in my playa name with Oedipus. 2017 is my 3rd burn, and my 2nd with the inimitable
-    Let It Go. I'm originally from Sydney, but I've been living in New York for the
-    last three years. I enjoy putting on zany events; bringing uncomfortable amounts
-    of energy to things when others are fading and having epiphanies about how great
-    my life is. I'm also currently writing a deep house musical. Hope to meet you
-    on the playa!
 contentOnAllPages:
 - sys:
     id: 1ga742I2MSYs8sky4MIC4m
@@ -497,13 +459,65 @@ contentOnAllPages:
     personal transformations and consciousness expanding experiences. __Welcome to
     our burning man family from the bottom of our hearts!__
   aboutImage:
-    title: about-2
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/2jmI79elzi246EYGkGIYAS/09d24febc73898b1b04408929de99699/about-2.jpg
-  aboutImage2:
     title: about-1
     description: 
     url: //images.contentful.com/s7od86xvrwx9/2XsgbxRvSoqSMIUGM0ec6Q/68e9e9e07050112c7402b98d07a13cfb/about-1.jpg
+  aboutImage2:
+    title: about-2
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/2jmI79elzi246EYGkGIYAS/09d24febc73898b1b04408929de99699/about-2.jpg
   contactUsText: |-
     We do not take any application to join the camp anymore! But feel free to check out our instagram or facebook page to see what we're up to!
     __Love & Peace__
+newsPost:
+- sys:
+    id: 3vsV2rlINyGsqSQOwUwOKw
+  title: New Website
+  content: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+letter:
+- sys:
+    id: 6y9JxGYKqs86WkgAaMkaQs
+  year: 2017
+  heroLetter:
+    title: 060-typewriter
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/58GcIea5h6kk06iWWsuc6W/6c0f5fb2b148ac1926dd630185bed9f9/060-typewriter.jpg
+  title: Radical Ritual
+  content: "Let it Go wants to be in line with and contribute to the collective evolutionary
+    process that we're currently experiencing.\n \nWe would like to provide a space
+    that’s comfortable for people regardless of their cultural background or spiritual
+    beliefs.  The ability to let go of our mind-created sense of self stands at the
+    root of all major religions and spiritual teachings and leads to an all-encompassing,
+    more peaceful attitude toward life full of love, understanding, wisdom, compassion
+    and oneness.\n \nCreating a space of shared awareness, where we feel free to reveal
+    our most intimate emotions, thoughts, and self.  A space where you need not fear
+    being judged and you can be your true self, or explore all the possibilities of
+    who you can be. A space where you can connect and explore territories of love
+    and trust where everyone gives and receives to help bridge the gap between you
+    and I.  __A space to learn.  A space to teach.  A space to let. it. go.__\n \nOur
+    reason for existence/purpose is ultimately to encourage people to let go of the
+    conceptual mind that seems to know who we are and what's reality, the ego.  It’s
+    the voice in your head that's pretending to be us, but it’s mainly concerned on
+    survival, it prevents us from being present in each moment.  It prevents us from
+    being at ease in our lives and from reaching our most innate dreams and visions.
+    \ Thoughts of past and future, self-doubt, self-pity, and paranoia are all manifestations
+    of the ego that are keeping you from being present in the universe, the state
+    of being that your soul is longing for.  It's absolutely vital to human health
+    to have access to the inner stillness.  When everyone acts from a place of oneness,
+    of egolessness, there will be no more warfare, racism, division, and greed.  Ultimately,
+    we want to create a better, happier and more peaceful world. Right here, right
+    now, is the only place there is and ever will be and the only place where we can
+    truly be ourselves.\n \nWe wish to help direct people towards a place within that
+    is of love and peace, a place that is pure.  There are different possibilities
+    for people to let go of their minds, their bodies, their limiting beliefs and
+    most importantly the suffering that is essentially not 'your' suffering.  Routes
+    of exploration could be through yoga, meditation, psychedelic journeys, expressive
+    dance, intuitive painting and much more.\n \nWe imagine Burning Man to be the
+    perfect environment for profound personal transformations and consciousness expanding
+    experiences.  __Welcome to our burning man family from the bottom of our hearts!__"

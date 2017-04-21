@@ -339,9 +339,11 @@ body {
 
 .donate {
   padding: 10px 20px;
+  transition: all 0.2s ease-out;
   background: #454545;
   color: #fff; }
   .donate:hover {
+    background: #777679;
     color: #fff; }
 
 h1 {
@@ -415,12 +417,10 @@ a {
   font-weight: 400; }
 
 .white-title {
-  color: #fff;
-  text-shadow: 1px 1px 5px #000; }
+  color: #fff; }
 
 .black-title {
-  color: #333;
-  text-shadow: 1px 1px 5px #000; }
+  color: #333; }
 
 div.clearfix {
   clear: both; }
@@ -612,6 +612,7 @@ nav {
 .section-photo {
   min-height: 500px;
   height: auto;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.3);
   max-height: 950px; }
   .section-photo [class*='col-'] {
     padding-right: 0; }
@@ -771,18 +772,19 @@ section.news {
   display: inline-block; }
   .about .social-icons .twitter, .contact .social-icons .twitter {
     position: absolute;
-    transform: translate(-1%, -54%); }
+    transform: translate(17%, -72%); }
     .about .social-icons .twitter:hover svg, .contact .social-icons .twitter:hover svg {
-      fill: #1da1f4; }
+      fill: #000; }
   .about .social-icons .fb, .contact .social-icons .fb {
     position: absolute;
     transform: translate(-89%, -2%); }
     .about .social-icons .fb:hover svg, .contact .social-icons .fb:hover svg {
-      fill: #3b5998; }
+      fill: #000; }
   .about .social-icons svg, .contact .social-icons svg {
     height: 25px;
     margin-right: 10px;
-    fill: #ccc; }
+    fill: #ccc;
+    transition: all 0.2s ease-out; }
     @media screen and (max-width: 767px) {
       .about .social-icons svg, .contact .social-icons svg {
         height: 23px;
@@ -853,13 +855,14 @@ footer {
       position: absolute;
       transform: translate(-61%, -53%); }
       footer .social-icons .twitter:hover svg {
-        fill: #1da1f4; }
+        fill: #fff; }
     footer .social-icons .fb {
       position: absolute;
       transform: translate(-197%, -61%); }
       footer .social-icons .fb:hover svg {
-        fill: #3b5998; }
+        fill: #fff; }
     footer .social-icons svg {
+      transition: all 0.2s ease-out;
       height: 25px;
       margin-right: 10px;
       fill: #ccc; }

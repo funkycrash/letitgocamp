@@ -46,9 +46,11 @@
 
 .donate {
 	padding: 10px 20px;
+	@include transition(.2s);
     background: $blue;
     color: #fff;
     &:hover {
+    	background: #777679; 
     	color: #fff;
     }
-}
+} 
