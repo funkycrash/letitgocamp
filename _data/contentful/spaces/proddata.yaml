@@ -310,22 +310,6 @@ campMember:
     It's going to be her first burn and she already has a really cool Burner attitude
     so the dust will just make it better!
 - sys:
-    id: 14c9RpUvBsWUUCKKiuqeMi
-  name: sundance
-  desiredUrl: sundance
-  title: Kitchen, Water, & Trash Master
-  picture:
-    title: sundance
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/Vdst6bHAGGAW6iiaCqKO6/493232199b5cb9173240be1731c76dbe/17855603_10105472262064787_7547854519648161924_o.jpg
-  bio: Hola! I'm Connor and you can call me Sundance, because yes - you' may find
-    me dancing in the sun ;) I'm originally from southern California & have been living
-    in San Diego since 2014 when I met Koala & Jenny through craigslist (imagine that!)
-    to become their roomates just after having attended BM in 2013 for my first time.
-    Since then I've been with LIG and last year spearheaded organizing the Kitchen,
-    Water, & Trash, so please feel free to direct any questions you may have my way!
-    Looking forward to meeting ya'll!
-- sys:
     id: 615hWY6vyoemaOqoi4kooO
   name: Anne-Sophie
   desiredUrl: anne-sophie
@@ -381,6 +365,22 @@ campMember:
     to do so in the future. I enjoy playing, teaching and learning with my mini-me
     burner babe, Enid...exploring new outdoor ground...and creating fiber art designs
     (www.terradesign.info). '
+- sys:
+    id: 14c9RpUvBsWUUCKKiuqeMi
+  name: Sundance
+  desiredUrl: sundance
+  title: Kitchen, Water, & Trash Master
+  picture:
+    title: sundance
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/Vdst6bHAGGAW6iiaCqKO6/493232199b5cb9173240be1731c76dbe/17855603_10105472262064787_7547854519648161924_o.jpg
+  bio: Hola! I'm Connor and you can call me Sundance, because yes - you' may find
+    me dancing in the sun ;) I'm originally from southern California & have been living
+    in San Diego since 2014 when I met Koala & Jenny through craigslist (imagine that!)
+    to become their roomates just after having attended BM in 2013 for my first time.
+    Since then I've been with LIG and last year spearheaded organizing the Kitchen,
+    Water, & Trash, so please feel free to direct any questions you may have my way!
+    Looking forward to meeting ya'll!
 - sys:
     id: 6pfUA98KY0EicAMWE8go06
   name: Jon
