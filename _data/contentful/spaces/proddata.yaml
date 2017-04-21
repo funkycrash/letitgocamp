@@ -124,53 +124,6 @@ campMember:
     Looking forward to meeting ya'll!
 workGroup:
 - sys:
-    id: 2yYvwOp6PqasYk6AeYeEWE
-  title: Planning & Logistics
-  desiredUrl: planning-logistics
-  heroImage:
-    title: planning-logistics
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg
-  workGroupBlurb: It all starts with a plan
-  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
-    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
-    for people to be responsible for the book keepings as well as logisitics. \n\n"
-  ourFocusImage1:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  ourFocusImage2:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  ourFocusImage3:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  ourFocusImage4:
-    title: camp schedule
-    description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
-  theInitiativeText: "\n__Accounting__: This department is in charge of collecting
-    camp dues, budgeting, distributing moneys, reimbursing people etc.\n\nUse our
-    Burning Man 2017 Google Spreadsheet to track budget\n\n__Transportation & Storage__:
-    This team is in charge of bringing all the equipment to the playa and drop it
-    off in Tahoe on the way back. \n\nA hauling vehicle will need to be used to haul
-    the trailer. \n\nWe will need volunteers to do the driving. Potentially from the
-    Eclipse fesvtival in Oregon and/or Tahoe and returning the trailer to Tahoe. \n\n__Water
-    & Trash__: This department is in charge of organizing delivery of water to the
-    playa, pump out of grey water, trash management at camp (trash, compost and recycle)\n\nWater
-    delivery is organized through Fresca Waterhouse. Last year we rented a XX gallon
-    tank. Orders should be done before July for the best pricing.  Tanks will need
-    to be picked up, the delivery date and time will need to be pre arranged with
-    the water store. [Check their website for details.](http://www.frescawaterhouse.com/burning-man-water/)\n\nGray
-    water - Last year, Connor fashioned a gray water system with a kiddie pool.  It
-    took a long time for the gray water to evaporate so we are looking for a better
-    method.  This team will be responsible for creating a solution for managing gray
-    water as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is
-    home to a most of the shared trash for Burning Man.  This team is responble for
-    organizing recycling and trash can materials, setup and disposal. "
-- sys:
     id: 4bCKHwS65acEOuQ4w4CoIQ
   title: Art
   desiredUrl: art
@@ -219,6 +172,55 @@ workGroup:
     on arts and crafts before and during the burn\n\nOutstanding questions - \nWhere
     is the Let It Go sign ?\nWill we have the lotus dome? \n\n\n"
 - sys:
+    id: 2yYvwOp6PqasYk6AeYeEWE
+  title: Planning & Logistics
+  desiredUrl: planning-logistics
+  heroImage:
+    title: planning-logistics
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/57yb8zP28omeoAEuogIuwu/90a18c1b9f06183d5e8a33096378b798/planning-logistics.jpg
+  workGroupBlurb: It all starts with a plan
+  theOpportunity: "Do you like to plan?  Do you keep detailed records of everything?
+    \ Do you enjoy numbers?  Well this group is the group for you!  We are looking
+    for people to be responsible for the book keepings as well as logisitics. \n\n"
+  ourFocusImage1:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
+  ourFocusImage2:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
+  ourFocusImage3:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
+  ourFocusImage4:
+    title: camp schedule
+    description: 
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
+  theInitiativeText: "\n# __Accounting__ \n\nIn charge of collecting camp dues, budgeting,
+    distributing moneys, reimbursing people etc.\n\nUse our Burning Man 2017 Google
+    Spreadsheet to track budget.  \n\nCollect money through paypal or venmo. \n\n#
+    __Transportation & Storage__\n### \nThis team is in charge of bringing all the
+    equipment to the playa and drop it off in Tahoe on the way back. \n\nA hauling
+    vehicle will need to be used to haul the trailer. \n\nWe will need volunteers
+    to do the driving. Potentially from the Eclipse fesvtival in Oregon and/or Tahoe
+    and returning the trailer to Tahoe. \n\nA checklist of items will be maintained
+    in the master spreadsheet.\n\n### __Water & Trash__\n\nThis department is in charge
+    of organizing delivery of water to the playa, pump out of grey water, trash management
+    at camp (trash, compost and recycle)\n\nWater delivery is organized through Fresca
+    Waterhouse. Last year we rented a XX gallon tank. Orders should be done before
+    July for the best pricing.  Tanks will need to be picked up, the delivery date
+    and time will need to be pre arranged with the water store. [Check their website
+    for details.](http://www.frescawaterhouse.com/burning-man-water/)\n\nGray water
+    - Last year, Connor fashioned a gray water system with a kiddie pool.  It took
+    a long time for the gray water to evaporate so we are looking for a better method.
+    \ This team will be responsible for creating a solution for managing gray water
+    as well as the gray water disposal. \n\nTrash/ Recycling-  The kitchen is home
+    to a most of the shared trash for Burning Man.  This team is responble for organizing
+    recycling and trash can materials, setup and disposal. "
+- sys:
     id: 4HOX4zNvFYAqMAm4ikIe2I
   title: Infrastructure
   desiredUrl: infrastructure
@@ -245,19 +247,19 @@ workGroup:
   ourFocusImage1:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   ourFocusImage2:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   ourFocusImage3:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   ourFocusImage4:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   theInitiativeText: Placeholder text for what are the steps required to join this
     group.
 - sys:
@@ -280,19 +282,19 @@ workGroup:
   ourFocusImage1:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   ourFocusImage2:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   ourFocusImage3:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   ourFocusImage4:
     title: camp schedule
     description: 
-    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/df795950dfe41b8919a183fee204f84d/131.JPG
+    url: //images.contentful.com/s7od86xvrwx9/6FCYrF9FZeQIE0A08wYg6c/af87f97a2c599a7934eb16a46c387aaf/IMG_0926.JPG
   theInitiativeText: "\n\n- Design and build the kitchen, need to ensure it not exposed
     to the elements, includes some kind of flooring, walls and entries\n- Ensure our
     kitchen include space for coolers, cookware, cooking counter space, washing station,
