@@ -5,7 +5,6 @@ echo '### Interpolating Variables ###'
 sed -i 's/LETITGO_CONTENTFUL_PREVIEW_TOKEN/'"$LETITGO_CONTENTFUL_PREVIEW_TOKEN"'/g' _config.yml 
 sed -i 's/LETITGO_CONTENTFUL_ACCESS_TOKEN/'"$LETITGO_CONTENTFUL_ACCESS_TOKEN"'/g' _config.yml 
 sed -i 's/LETITGO_CONTENTFUL_SPACE_ID/'"$LETITGO_CONTENTFUL_SPACE_ID"'/g' _config.yml 
-cat _config.yml
 echo '### Fetching content & Building site ###'
-jekyll contentful --rebuild
+jekyll contentful --rebuild --verbose 
 echo '### DONE ###'
