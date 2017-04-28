@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/usr/bin/env bash
+set -e 
 
 echo '### Interpolating Variables ###'
 sed -i 's/LETITGO_CONTENTFUL_PREVIEW_TOKEN/'"$LETITGO_CONTENTFUL_PREVIEW_TOKEN"'/g' _config.yml 
