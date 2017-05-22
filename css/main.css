@@ -207,7 +207,7 @@ body {
     /* grid-space to right: (grid-space-left - column-space) e.g. 20px-10px=10px */ }
 
   [class*='col-'] {
-    width: auto;
+    width: 100% !important;
     float: none;
     margin: 10px 0;
     padding-left: 0;

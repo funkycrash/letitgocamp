@@ -46,7 +46,7 @@ layout: default
         {% endif %}
           <div class="col-1-3 center-text item-{{ forloop.index }}" style="margin-bottom: 5px;">
             <div class="hover-link hide-on-mobile hide-on-tablet">
-                <h3><a href="/work-group/{{workgroup.desiredUrl}}">{{ workgroup.title }}</a></h3>
+                <h3><a href="/work-group/{{workgroup.desiredUrl}}" class="olive-blue">{{ workgroup.title }}</a></h3>
                 <p class="button olive-blue"><a href="/work-group/{{workgroup.desiredUrl}}">View Group</a></p>
             </div>
             <div class="overlay-red hide-on-tablet hide-on-mobile"></div>
@@ -54,7 +54,7 @@ layout: default
                     
             <!-- mobile blurb  -->
             <div class="dark-red hide-on-desktop" style="padding: 0.5em; position: relative; z-index: 99;">
-               <h3><a href="/work-group/{{workgroup.desiredUrl}}">{{ workgroup.title }}</a></h3>
+               <h3><a style="color:#D1B894" href="/work-group/{{workgroup.desiredUrl}}">{{ workgroup.title }}</a></h3>
                 <p class="button olive-blue"><a href="/work-group/{{workgroup.desiredUrl}}">View Group</a></p>
             </div>
             <!-- end mobile blurb  -->
@@ -69,7 +69,7 @@ layout: default
         {% if forloop.last and modulo == '1' or modulo == '2' %} 
           <a href="/work-group/" >
             <div class="col-1-3 center-text hide-on-tablet hide-on-mobile" style="margin-bottom: 5px;">
-              <div class="{% if overlay-counter == '0' %} dark-red {% else %} blue {% endif %} center-vertical" style="height: 350px;">
+              <div class="dark-red center-vertical" style="height: 350px;">
                   <h3 class="color-olive">Learn more <br />about our work groups</h3>
               </div>
             </div>

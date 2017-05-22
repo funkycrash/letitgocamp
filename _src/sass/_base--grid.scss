@@ -198,8 +198,8 @@ body {
 	}
 
 	[class*='col-'] {
-		width: auto;
-		float: none;
+		width: 100% !important;
+		float: none; 
 		margin: 10px 0;
 		padding-left: 0;
 		padding-right: 10px; /* column-space */
